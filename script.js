@@ -140,10 +140,11 @@ function buscarPorCodigo() {
       for (const a of d.atsa) {
         if (!a) continue;
         if (a.codigo_atsa && a.codigo_atsa.toUpperCase().includes(q)) return true;
-        if (a.equiv_hercules && a.equiv_hercules.toUpperCase().includes(q)) return true;
+        if (a.equiv_hercules) {
+          const hCode = a.equiv_hercules.startsWith('H') ? a.equiv_hercules : 'H' + a.equiv_hercules;
+          if (a.equiv_hercules.toUpperCase().includes(q) || hCode.includes(q)) return true;
+        }
         if (a.equiv_birlo_original && a.equiv_birlo_original.toUpperCase().includes(q)) return true;
-        if (a.equiv_bi && a.equiv_bi.toUpperCase().replace(/\s/g, '').includes(q.replace(/\s/g, ''))) return true;
-        if (bi && a.equiv_bi && normalizeBICode(bi) === normalizeBICode(a.equiv_bi)) return true;
       }
     }
     return false;
@@ -233,22 +234,22 @@ function renderResults(results, title) {
     html += `<div class="card-codes">
       <div class="codes-grid">`;
 
+    if (d.birlo_bi) {
+      html += `<div class="code-item primary">
+        <span class="code-label">Birlos Internacionales</span>
+        <span class="code-value">${escapeHtml(d.birlo_bi)}</span>
+      </div>`;
+    }
+
     if (atsas) {
       for (let i = 0; i < atsas.length; i++) {
         const a = atsas[i];
         const isFirst = i === 0;
 
         if (isFirst || atsas.length === 1) {
-          html += `<div class="code-item primary">
+          html += `<div class="code-item">
             <span class="code-label">ATSA</span>
             <span class="code-value">${escapeHtml(a.codigo_atsa)}</span>
-          </div>`;
-        }
-
-        if (a.equiv_bi) {
-          html += `<div class="code-item">
-            <span class="code-label">Birlos Internacionales</span>
-            <span class="code-value">${escapeHtml(a.equiv_bi)}</span>
           </div>`;
         }
 
@@ -266,13 +267,6 @@ function renderResults(results, title) {
             <span class="code-value">${escapeHtml(a.equiv_birlo_original)}</span>
           </div>`;
         }
-      }
-    } else {
-      if (d.birlo_bi) {
-        html += `<div class="code-item primary">
-          <span class="code-label">Birlos Internacionales</span>
-          <span class="code-value">${escapeHtml(d.birlo_bi)}</span>
-        </div>`;
       }
     }
 
