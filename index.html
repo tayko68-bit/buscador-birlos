@@ -2,75 +2,163 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Buscador de Birlos</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Buscador de Birlos — ATSA | Birlos Internacionales | Hércules</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<div class="container">
-  <header>
-    <h1>Buscador de Birlos</h1>
-    <p class="subtitle">Busca por vehículo o código de birlo (ATSA, Birlos Internacionales, Hércules)</p>
-  </header>
 
-  <section class="search-box">
-    <div class="search-tabs">
-      <button class="tab active" data-tab="vehiculo">Buscar por vehículo</button>
-      <button class="tab" data-tab="codigo">Buscar por código</button>
-    </div>
-
-    <div id="search-vehiculo" class="search-panel active">
-      <div class="form-row">
-        <div class="form-group">
-          <label>Marca</label>
-          <select id="sel-marca"><option value="">Selecciona marca</option></select>
-        </div>
-        <div class="form-group">
-          <label>Modelo</label>
-          <select id="sel-modelo" disabled><option value="">Selecciona modelo</option></select>
-        </div>
-        <div class="form-group">
-          <label>Año</label>
-          <select id="sel-anio" disabled><option value="">Selecciona año</option></select>
-        </div>
-        <div class="form-group">
-          <label>Posición</label>
-          <select id="sel-posicion" disabled><option value="">Todas</option></select>
-        </div>
+<header class="header">
+  <div class="header-inner">
+    <div class="logo">
+      <div class="logo-icon">
+        <svg viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <circle cx="18" cy="18" r="16" stroke="currentColor" stroke-width="2"/>
+          <circle cx="18" cy="18" r="7" fill="currentColor" opacity="0.3"/>
+          <circle cx="18" cy="18" r="3" fill="currentColor"/>
+          <line x1="18" y1="2" x2="18" y2="8" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
+          <line x1="18" y1="28" x2="18" y2="34" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
+          <line x1="2" y1="18" x2="8" y2="18" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
+          <line x1="28" y1="18" x2="34" y2="18" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
+        </svg>
+      </div>
+      <div class="logo-text">
+        <span class="logo-brand">BUSCADOR DE BIRLOS</span>
+        <span class="logo-sub">ATSA · Birlos Internacionales · Hércules</span>
       </div>
     </div>
-
-    <div id="search-codigo" class="search-panel">
-      <div class="form-row">
-        <div class="form-group" style="flex:2">
-          <label>Código (ATSA, B.I., Hércules, Original)</label>
-          <input type="text" id="input-codigo" placeholder="Ej: 4128-R, BR40-004RP, H44-128, 4222125025R">
-        </div>
-        <div class="form-group" style="flex:0">
-          <button id="btn-buscar-codigo" class="btn">Buscar</button>
-        </div>
-      </div>
+    <div class="header-badge">
+      <span class="badge-dot"></span>
+      <span>Catálogo integrado</span>
     </div>
-  </section>
-
-  <section id="results">
-    <div id="count-info"></div>
-    <div id="results-list"></div>
-  </section>
-
-  <div id="no-results" class="hidden">
-    <p>No se encontraron resultados.</p>
   </div>
+</header>
 
-  <footer style="text-align:center;padding:32px 20px;color:#8a9aba;font-size:0.82rem">
-    <p>Datos combinados de ATSA, Birlos Internacionales y Hércules</p>
-  </footer>
-</div>
+<main class="main">
+  <section class="search-section">
+    <div class="search-hero">
+      <h1>Encuentra el birlo <span class="highlight">correcto</span></h1>
+      <p>Busca por vehículo y te mostramos los códigos equivalentes en las tres marcas</p>
+    </div>
 
-<div id="loading" class="loading hidden">
-  <div class="spinner"></div>
-  <p>Cargando datos...</p>
-</div>
+    <div class="search-tabs">
+      <button class="tab-btn active" id="tab-vehiculo" onclick="switchTab('vehiculo')">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="1" y="3" width="15" height="13" rx="2"/><path d="M16 8h4l3 3v5h-7V8z"/><circle cx="5.5" cy="18.5" r="2.5"/><circle cx="18.5" cy="18.5" r="2.5"/></svg>
+        Por Vehículo
+      </button>
+      <button class="tab-btn" id="tab-codigo" onclick="switchTab('codigo')">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+        Por Código
+      </button>
+    </div>
+
+    <div class="search-panel" id="panel-vehiculo">
+      <div class="selector-row">
+        <div class="selector-group">
+          <label for="sel-marca">Marca</label>
+          <div class="select-wrapper">
+            <select id="sel-marca" onchange="onMarcaChange()" disabled>
+              <option value="">Cargando...</option>
+            </select>
+            <svg class="select-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+          </div>
+        </div>
+        <div class="selector-arrow-icon">→</div>
+        <div class="selector-group">
+          <label for="sel-modelo">Modelo</label>
+          <div class="select-wrapper">
+            <select id="sel-modelo" onchange="onModeloChange()" disabled>
+              <option value="">Selecciona marca primero</option>
+            </select>
+            <svg class="select-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+          </div>
+        </div>
+        <div class="selector-arrow-icon">→</div>
+        <div class="selector-group">
+          <label for="sel-anio">Año</label>
+          <div class="select-wrapper">
+            <select id="sel-anio" disabled onchange="onAnioChange()">
+              <option value="">Selecciona modelo primero</option>
+            </select>
+            <svg class="select-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+          </div>
+        </div>
+        <button class="btn-buscar" id="btn-buscar-vehiculo" onclick="buscarPorVehiculo()" disabled>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+          Buscar
+        </button>
+      </div>
+    </div>
+
+    <div class="search-panel hidden" id="panel-codigo">
+      <div class="code-search-row">
+        <div class="code-input-group">
+          <label for="inp-codigo">Código (ATSA, B.I., Hércules, Original)</label>
+          <input type="text" id="inp-codigo" placeholder="4128-R, BR40-004RP, H44-128" oninput="this.value=this.value.toUpperCase()" onkeydown="if(event.key==='Enter') buscarPorCodigo()">
+        </div>
+        <button class="btn-buscar" onclick="buscarPorCodigo()">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+          Buscar
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <section id="results" class="results-section hidden">
+    <div id="results-inner"></div>
+    <div id="no-results" class="no-results hidden">
+      <div class="no-results-icon">🔍</div>
+      <h3>Sin resultados</h3>
+      <p>No encontramos birlos para esa búsqueda. Prueba con otros datos.</p>
+    </div>
+  </section>
+
+  <section id="empty-state" class="empty-state">
+    <div class="empty-icon">
+      <svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="40" cy="40" r="36" stroke="currentColor" stroke-width="2" stroke-dasharray="4 4" opacity="0.3"/>
+        <circle cx="40" cy="40" r="18" stroke="currentColor" stroke-width="2" opacity="0.5"/>
+        <circle cx="40" cy="40" r="7" fill="currentColor" opacity="0.4"/>
+        <circle cx="40" cy="40" r="3" fill="currentColor" opacity="0.8"/>
+        <line x1="40" y1="4" x2="40" y2="14" stroke="currentColor" stroke-width="3" stroke-linecap="round" opacity="0.5"/>
+        <line x1="40" y1="66" x2="40" y2="76" stroke="currentColor" stroke-width="3" stroke-linecap="round" opacity="0.5"/>
+        <line x1="4" y1="40" x2="14" y2="40" stroke="currentColor" stroke-width="3" stroke-linecap="round" opacity="0.5"/>
+        <line x1="66" y1="40" x2="76" y2="40" stroke="currentColor" stroke-width="3" stroke-linecap="round" opacity="0.5"/>
+      </svg>
+    </div>
+    <h2>Selecciona un vehículo para comenzar</h2>
+    <p id="catalog-counter">Cargando catálogo...</p>
+  </section>
+</main>
+
+<section class="info-bar">
+  <div class="info-items">
+    <div class="info-item">
+      <span class="info-icon">🔩</span>
+      <div>
+        <strong>Asiento Cónico 60°</strong>
+        <span>El más común. Aplica para: Nissan, Chevrolet, Ford, Toyota, Honda, Mazda</span>
+      </div>
+    </div>
+    <div class="info-item">
+      <span class="info-icon">⚙️</span>
+      <div>
+        <strong>Asiento de Bola</strong>
+        <span>Punta redondeada. Aplica para: Volkswagen, Seat, Audi, BMW, Mercedes</span>
+      </div>
+    </div>
+    <div class="info-item">
+      <span class="info-icon">📐</span>
+      <div>
+        <strong>Torque recomendado</strong>
+        <span>Siempre apretar con torquímetro. Un birlo sobre-apretado puede romperse</span>
+      </div>
+    </div>
+  </div>
+</section>
 
 <script src="script.js"></script>
 </body>

@@ -1,237 +1,338 @@
 let datos = [];
-let timeoutId = null;
 
-async function cargarDatos() {
-  const loading = document.getElementById('loading');
-  loading.classList.remove('hidden');
+async function loadData() {
   try {
     const resp = await fetch('datos.json');
     datos = await resp.json();
-    cargarMarcas();
+    document.getElementById('catalog-counter').textContent =
+      `${datos.length} registros en catálogo`;
+    populateMarcas();
+
+    const urlParams = new URLSearchParams(window.location.search);
+    const codigo = urlParams.get('codigo');
+    if (codigo) {
+      document.getElementById('inp-codigo').value = codigo.toUpperCase();
+      switchTab('codigo');
+      buscarPorCodigo();
+    }
   } catch (e) {
-    alert('Error al cargar datos: ' + e.message);
-  } finally {
-    loading.classList.add('hidden');
+    document.getElementById('catalog-counter').textContent = 'Error al cargar catálogo';
+    console.error(e);
   }
 }
 
-function cargarMarcas() {
-  const marcas = [...new Set(datos.map(r => r.vehiculo.marca))].sort();
+function getMarcas() {
+  return [...new Set(datos.map(d => d.vehiculo.marca).filter(Boolean))].sort();
+}
+
+function getModelos(marca) {
+  return [...new Set(datos.filter(d => d.vehiculo.marca === marca).map(d => d.vehiculo.modelo).filter(Boolean))].sort();
+}
+
+function getAnios(marca, modelo) {
+  return [...new Set(datos.filter(d => d.vehiculo.marca === marca && d.vehiculo.modelo === modelo).map(d => d.vehiculo.anio).filter(Boolean))].sort();
+}
+
+function getPosiciones(marca, modelo, anio) {
+  const anioStr = String(anio);
+  return datos.filter(d => d.vehiculo.marca === marca && d.vehiculo.modelo === modelo && String(d.vehiculo.anio) === anioStr).map(d => d.vehiculo.posicion).filter(Boolean);
+}
+
+function populateMarcas() {
   const sel = document.getElementById('sel-marca');
-  marcas.forEach(m => {
-    const opt = document.createElement('option');
-    opt.value = m; opt.textContent = m;
-    sel.appendChild(opt);
+  sel.innerHTML = '<option value="">Selecciona una marca</option>';
+  getMarcas().forEach(m => {
+    sel.innerHTML += `<option value="${escapeHtml(m)}">${escapeHtml(m)}</option>`;
   });
-  sel.addEventListener('change', onMarcaChange);
-  document.getElementById('sel-modelo').addEventListener('change', onModeloChange);
-  document.getElementById('sel-anio').addEventListener('change', onAnioChange);
-  document.getElementById('sel-posicion').addEventListener('change', onPosicionChange);
+  sel.disabled = false;
 }
 
-function filtrarPorMarca() {
-  const marca = document.getElementById('sel-marca').value;
-  return marca ? datos.filter(r => r.vehiculo.marca === marca) : [];
+function populateModelos(marca) {
+  const sel = document.getElementById('sel-modelo');
+  sel.innerHTML = '<option value="">Selecciona un modelo</option>';
+  if (marca) {
+    getModelos(marca).forEach(m => {
+      sel.innerHTML += `<option value="${escapeHtml(m)}">${escapeHtml(m)}</option>`;
+    });
+    sel.disabled = false;
+  } else {
+    sel.disabled = true;
+  }
 }
 
-function filtrarPorModelo(lista) {
-  const modelo = document.getElementById('sel-modelo').value;
-  return modelo ? lista.filter(r => r.vehiculo.modelo === modelo) : lista;
-}
-
-function filtrarPorAnio(lista) {
-  const anio = document.getElementById('sel-anio').value;
-  return anio ? lista.filter(r => r.vehiculo.anio === anio) : lista;
-}
-
-function filtrarPorPosicion(lista) {
-  const pos = document.getElementById('sel-posicion').value;
-  return pos ? lista.filter(r => r.vehiculo.posicion === pos) : lista;
+function populateAnios(marca, modelo) {
+  const sel = document.getElementById('sel-anio');
+  sel.innerHTML = '<option value="">Selecciona un año</option>';
+  if (marca && modelo) {
+    getAnios(marca, modelo).forEach(a => {
+      sel.innerHTML += `<option value="${a}">${a}</option>`;
+    });
+    sel.disabled = false;
+  } else {
+    sel.disabled = true;
+  }
 }
 
 function onMarcaChange() {
   const marca = document.getElementById('sel-marca').value;
-  const selModelo = document.getElementById('sel-modelo');
-  selModelo.innerHTML = '<option value="">Selecciona modelo</option>';
-  const selAnio = document.getElementById('sel-anio');
-  selAnio.innerHTML = '<option value="">Selecciona año</option>';
-  const selPos = document.getElementById('sel-posicion');
-  selPos.innerHTML = '<option value="">Todas</option>';
-  selModelo.disabled = !marca;
-  selAnio.disabled = true;
-  selPos.disabled = true;
-
-  if (!marca) { mostrarResultados([]); return; }
-
-  const filtrados = filtrarPorMarca();
-  const modelos = [...new Set(filtrados.map(r => r.vehiculo.modelo))].sort();
-  modelos.forEach(m => {
-    const opt = document.createElement('option');
-    opt.value = m; opt.textContent = m;
-    selModelo.appendChild(opt);
-  });
-  selModelo.disabled = false;
-  mostrarResultados(filtrados);
+  populateModelos(marca);
+  populateAnios(marca, null);
+  document.getElementById('btn-buscar-vehiculo').disabled = true;
 }
 
 function onModeloChange() {
+  const marca = document.getElementById('sel-marca').value;
   const modelo = document.getElementById('sel-modelo').value;
-  const selAnio = document.getElementById('sel-anio');
-  selAnio.innerHTML = '<option value="">Selecciona año</option>';
-  const selPos = document.getElementById('sel-posicion');
-  selPos.innerHTML = '<option value="">Todas</option>';
-  selPos.disabled = true;
-
-  if (!modelo) {
-    selAnio.disabled = true;
-    const filtrados = filtrarPorMarca();
-    mostrarResultados(filtrados);
-    return;
-  }
-
-  let filtrados = filtrarPorMarca();
-  filtrados = filtrarPorModelo(filtrados);
-  const anios = [...new Set(filtrados.map(r => r.vehiculo.anio))].sort();
-  anios.forEach(a => {
-    const opt = document.createElement('option');
-    opt.value = a; opt.textContent = a;
-    selAnio.appendChild(opt);
-  });
-  selAnio.disabled = false;
-  mostrarResultados(filtrados);
+  populateAnios(marca, modelo);
+  document.getElementById('btn-buscar-vehiculo').disabled = true;
 }
 
 function onAnioChange() {
+  const marca = document.getElementById('sel-marca').value;
+  const modelo = document.getElementById('sel-modelo').value;
   const anio = document.getElementById('sel-anio').value;
-  const selPos = document.getElementById('sel-posicion');
-  selPos.innerHTML = '<option value="">Todas</option>';
-
-  let filtrados = filtrarPorMarca();
-  filtrados = filtrarPorModelo(filtrados);
-  if (anio) filtrados = filtrarPorAnio(filtrados);
-
-  const posiciones = [...new Set(filtrados.map(r => r.vehiculo.posicion))].sort();
-  posiciones.forEach(p => {
-    const opt = document.createElement('option');
-    opt.value = p; opt.textContent = p;
-    selPos.appendChild(opt);
-  });
-  selPos.disabled = false;
-  mostrarResultados(filtrados);
+  document.getElementById('btn-buscar-vehiculo').disabled = !(marca && modelo && anio);
 }
 
-function onPosicionChange() {
-  let filtrados = filtrarPorMarca();
-  filtrados = filtrarPorModelo(filtrados);
-  filtrados = filtrarPorAnio(filtrados);
-  filtrados = filtrarPorPosicion(filtrados);
-  mostrarResultados(filtrados);
+function escapeHtml(str) {
+  if (!str) return '';
+  return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 }
 
-function mostrarResultados(lista) {
-  const container = document.getElementById('results-list');
-  const countInfo = document.getElementById('count-info');
-  const noResults = document.getElementById('no-results');
-
-  if (lista.length === 0) {
-    container.innerHTML = '';
-    countInfo.textContent = '';
-    noResults.classList.remove('hidden');
-    return;
+function switchTab(tab) {
+  document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+  document.querySelectorAll('.search-panel').forEach(p => p.classList.add('hidden'));
+  if (tab === 'vehiculo') {
+    document.getElementById('tab-vehiculo').classList.add('active');
+    document.getElementById('panel-vehiculo').classList.remove('hidden');
+  } else {
+    document.getElementById('tab-codigo').classList.add('active');
+    document.getElementById('panel-codigo').classList.remove('hidden');
   }
-  noResults.classList.add('hidden');
-  countInfo.textContent = `${lista.length} resultado(s) encontrado(s)`;
-
-  container.innerHTML = lista.map(r => {
-    const v = r.vehiculo;
-
-    const atsaBlocks = r.atsa.length > 0 ? r.atsa.map(a => {
-      const hercCodes = a.equiv_hercules ? a.equiv_hercules.split(/\s+/).map(h => `H${h}`).join(', ') : '';
-      return `
-        <div class="codigos">
-          <span class="codigo-item atsa"><span class="label">ATSA:</span> ${a.codigo_atsa}</span>
-          ${hercCodes ? `<span class="codigo-item hercules"><span class="label">Hércules:</span> ${hercCodes}</span>` : ''}
-          ${a.equiv_birlo_original ? `<span class="codigo-item original"><span class="label">Original:</span> ${a.equiv_birlo_original}</span>` : ''}
-        </div>
-        <div class="specs">
-          ${a.rosca ? `<span class="spec-item"><span class="label">Rosca:</span> ${a.rosca}</span>` : ''}
-          ${a.longitud_total ? `<span class="spec-item"><span class="label">Longitud:</span> ${a.longitud_total}</span>` : ''}
-          ${a.dureza ? `<span class="spec-item"><span class="label">Dureza:</span> ${a.dureza}</span>` : ''}
-          ${a.aplicacion ? `<span class="spec-item"><span class="label">Aplicación:</span> ${a.aplicacion}</span>` : ''}
-        </div>
-      `;
-    }).join('<hr class="atsa-sep">') : '<div class="no-match">Sin información ATSA disponible</div>';
-
-    return `
-      <div class="card">
-        <div class="card-header">
-          <div class="card-vehiculo">${v.marca} ${v.modelo}</div>
-          <div class="card-posicion">${v.anio} ${v.posicion ? '— ' + v.posicion : ''}</div>
-        </div>
-        <div class="codigos" style="margin-top:8px">
-          <span class="codigo-item bi"><span class="label">Birlos Internacionales:</span> ${r.birlo_bi}</span>
-        </div>
-        ${atsaBlocks}
-        <div class="tuerca-info" style="margin-top:8px;padding-top:8px;border-top:1px solid #eee">
-          <strong>Tuerca recomendada:</strong> ${r.tuerca_recomendada || 'N/A'}
-        </div>
-      </div>
-    `;
-  }).join('');
 }
 
-/* -- Busqueda por codigo -- */
+function buscarPorVehiculo() {
+  const marca = document.getElementById('sel-marca').value;
+  const modelo = document.getElementById('sel-modelo').value;
+  const anio = document.getElementById('sel-anio').value;
+  if (!marca || !modelo || !anio) return;
+
+  const anioStr = String(anio);
+  const results = datos.filter(d =>
+    d.vehiculo.marca === marca &&
+    d.vehiculo.modelo === modelo &&
+    String(d.vehiculo.anio) === anioStr
+  );
+
+  renderResults(results, `${marca} ${modelo} ${anio}`);
+}
+
 function buscarPorCodigo() {
-  const q = document.getElementById('input-codigo').value.trim().toUpperCase();
+  const q = document.getElementById('inp-codigo').value.trim().toUpperCase();
   if (!q) return;
 
-  const resultados = datos.filter(r => {
-    if (r.birlo_bi.toUpperCase().includes(q)) return true;
-    if (r.tuerca_recomendada && r.tuerca_recomendada.toUpperCase().includes(q)) return true;
-    for (const a of r.atsa) {
-      if (a.codigo_atsa.toUpperCase().includes(q)) return true;
-      if (a.equiv_hercules && ('H' + a.equiv_hercules).includes(q)) return true;
-      if (a.equiv_hercules && a.equiv_hercules.toUpperCase().includes(q)) return true;
-      if (a.equiv_birlo_original && a.equiv_birlo_original.toUpperCase().includes(q)) return true;
-      if (a.tuerca_codigo && a.tuerca_codigo.toUpperCase().includes(q)) return true;
+  const results = datos.filter(d => {
+    const bi = d.birlo_bi || '';
+    if (bi && normalizeBICode(bi).includes(q)) return true;
+    if (bi && bi.toUpperCase().replace(/\s/g, '').includes(q.replace(/\s/g, ''))) return true;
+
+    if (d.atsa) {
+      for (const a of d.atsa) {
+        if (!a) continue;
+        if (a.codigo_atsa && a.codigo_atsa.toUpperCase().includes(q)) return true;
+        if (a.equiv_hercules && a.equiv_hercules.toUpperCase().includes(q)) return true;
+        if (a.equiv_birlo_original && a.equiv_birlo_original.toUpperCase().includes(q)) return true;
+        if (a.equiv_bi && a.equiv_bi.toUpperCase().replace(/\s/g, '').includes(q.replace(/\s/g, ''))) return true;
+        if (bi && a.equiv_bi && normalizeBICode(bi) === normalizeBICode(a.equiv_bi)) return true;
+      }
     }
     return false;
   });
 
-  mostrarResultados(resultados);
+  if (results.length === 0) {
+    showNoResults();
+    return;
+  }
+
+  renderResults(results, `Código: "${q}"`);
 }
 
-/* -- Busqueda por codigo en tiempo real (debounced) -- */
-function onCodigoInput() {
-  clearTimeout(timeoutId);
-  timeoutId = setTimeout(buscarPorCodigo, 400);
+function normalizeBICode(code) {
+  if (!code) return '';
+  return code.toUpperCase().replace(/^BR/, '').replace(/RP$/, '').replace(/R$/, '').replace(/P$/, '').replace(/\s/g, '').trim();
 }
 
-/* -- Tabs -- */
-function initTabs() {
-  document.querySelectorAll('.tab').forEach(tab => {
-    tab.addEventListener('click', () => {
-      document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
-      document.querySelectorAll('.search-panel').forEach(p => p.classList.remove('active'));
-      tab.classList.add('active');
-      document.getElementById('search-' + tab.dataset.tab).classList.add('active');
+function normalizeBICodeFull(code) {
+  if (!code) return '';
+  return code.toUpperCase().replace(/\s/g, '').trim();
+}
 
-      // Reset results if switching to vehicle tab
-      if (tab.dataset.tab === 'vehiculo') {
-        const selMarca = document.getElementById('sel-marca');
-        if (selMarca.value) {
-          selMarca.dispatchEvent(new Event('change'));
+function renderResults(results, title) {
+  const container = document.getElementById('results-inner');
+  const emptyState = document.getElementById('empty-state');
+  const noResults = document.getElementById('no-results');
+  const resultsSection = document.getElementById('results');
+
+  emptyState.classList.add('hidden');
+  noResults.classList.add('hidden');
+  resultsSection.classList.remove('hidden');
+
+  const uniqueVehicles = new Map();
+  for (const d of results) {
+    const key = `${d.vehiculo.marca}|${d.vehiculo.modelo}|${d.vehiculo.anio}|${d.vehiculo.posicion || 'N/A'}`;
+    if (!uniqueVehicles.has(key)) uniqueVehicles.set(key, d);
+  }
+
+  const vehicles = Array.from(uniqueVehicles.values());
+
+  let html = `<div class="results-header">
+    <h2>${escapeHtml(title)}</h2>
+    <span class="results-count">${results.length} ${results.length === 1 ? 'resultado' : 'resultados'}</span>
+  </div>`;
+
+  for (const d of vehicles) {
+    const v = d.vehiculo;
+    const atsas = d.atsa && d.atsa.length > 0 ? d.atsa : null;
+    const position = v.posicion || '';
+    const tuerca = d.tuerca_recomendada || '';
+
+    let tuercaLabel = '';
+    let tuercaClass = '';
+    if (tuerca) {
+      const tLow = tuerca.toLowerCase();
+      if (tLow.includes('original') || tLow.includes('tuerca') || tLow.includes('cilindrica')) {
+        tuercaLabel = 'Tuerca Original';
+        tuercaClass = 'original';
+      } else if (tLow.includes('mariposa')) {
+        tuercaLabel = 'Tuerca Mariposa';
+        tuercaClass = 'mariposa';
+      } else {
+        tuercaLabel = tuerca;
+        tuercaClass = 'default';
+      }
+    }
+
+    html += `<div class="result-card">
+      <div class="card-header">
+        <div class="card-vehicle">
+          <div class="card-vehicle-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <rect x="1" y="3" width="15" height="13" rx="2"/><path d="M16 8h4l3 3v5h-7V8z"/><circle cx="5.5" cy="18.5" r="2.5"/><circle cx="18.5" cy="18.5" r="2.5"/>
+            </svg>
+          </div>
+          <div>
+            <h3>${escapeHtml(v.marca)} ${escapeHtml(v.modelo)}</h3>
+            <span class="card-subtitle">${v.anio}${position ? ' · ' + escapeHtml(position) : ''}</span>
+          </div>
+        </div>
+        <span class="card-badge ${atsas ? 'complete' : 'partial'}">
+          ${atsas ? 'Completo' : 'Solo B.I.'}
+        </span>
+      </div>`;
+
+    html += `<div class="card-codes">
+      <div class="codes-grid">`;
+
+    if (atsas) {
+      for (let i = 0; i < atsas.length; i++) {
+        const a = atsas[i];
+        const isFirst = i === 0;
+
+        if (isFirst || atsas.length === 1) {
+          html += `<div class="code-item primary">
+            <span class="code-label">ATSA</span>
+            <span class="code-value">${escapeHtml(a.codigo_atsa)}</span>
+          </div>`;
+        }
+
+        if (a.equiv_bi) {
+          html += `<div class="code-item">
+            <span class="code-label">Birlos Internacionales</span>
+            <span class="code-value">${escapeHtml(a.equiv_bi)}</span>
+          </div>`;
+        }
+
+        if (a.equiv_hercules) {
+          const hCode = a.equiv_hercules.startsWith('H') ? a.equiv_hercules : 'H' + a.equiv_hercules;
+          html += `<div class="code-item">
+            <span class="code-label">Hércules</span>
+            <span class="code-value">${escapeHtml(hCode)}</span>
+          </div>`;
+        }
+
+        if (a.equiv_birlo_original) {
+          html += `<div class="code-item">
+            <span class="code-label">Birlo Original</span>
+            <span class="code-value">${escapeHtml(a.equiv_birlo_original)}</span>
+          </div>`;
         }
       }
+    } else {
+      if (d.birlo_bi) {
+        html += `<div class="code-item primary">
+          <span class="code-label">Birlos Internacionales</span>
+          <span class="code-value">${escapeHtml(d.birlo_bi)}</span>
+        </div>`;
+      }
+    }
+
+    html += `</div></div>`;
+
+    if (atsas) {
+      const specs = [];
+      for (const a of atsas) {
+        if (a.rosca && !specs.find(s => s.label === 'Rosca')) specs.push({ label: 'Rosca', value: a.rosca });
+        if (a.longitud_total && !specs.find(s => s.label === 'Longitud')) specs.push({ label: 'Longitud', value: a.longitud_total + ' mm' });
+        if (a.dureza && !specs.find(s => s.label === 'Dureza')) specs.push({ label: 'Dureza', value: a.dureza });
+        if (a.aplicacion && !specs.find(s => s.label === 'Aplicación')) specs.push({ label: 'Aplicación', value: a.aplicacion });
+      }
+
+      if (specs.length > 0) {
+        html += `<div class="card-specs">
+          <h4>Especificaciones</h4>
+          <div class="specs-grid">`;
+        for (const s of specs) {
+          html += `<div class="spec-item">
+            <span class="spec-label">${escapeHtml(s.label)}</span>
+            <span class="spec-value">${escapeHtml(s.value)}</span>
+          </div>`;
+        }
+        html += `</div></div>`;
+      }
+    }
+
+    if (tuerca && atsas) {
+      html += `<div class="card-tuerca">
+        <div class="tuerca-info">
+          <span class="tuerca-icon">🔩</span>
+          <div>
+            <strong>Tuerca Recomendada:</strong>
+            <span>${escapeHtml(tuerca)}</span>
+          </div>
+        </div>
+      </div>`;
+    }
+
+    html += `</div>`;
+  }
+
+  container.innerHTML = html;
+
+  setTimeout(() => {
+    document.querySelectorAll('.result-card').forEach((el, i) => {
+      el.style.animationDelay = `${i * 0.1}s`;
+      el.classList.add('animate-in');
     });
-  });
+  }, 50);
+
+  resultsSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
 
-/* -- Init -- */
-document.addEventListener('DOMContentLoaded', () => {
-  initTabs();
-  cargarDatos();
-  document.getElementById('btn-buscar-codigo').addEventListener('click', buscarPorCodigo);
-  document.getElementById('input-codigo').addEventListener('keyup', onCodigoInput);
-  document.getElementById('input-codigo').addEventListener('search', buscarPorCodigo);
-});
+function showNoResults() {
+  document.getElementById('empty-state').classList.add('hidden');
+  document.getElementById('results').classList.remove('hidden');
+  document.getElementById('no-results').classList.remove('hidden');
+  document.getElementById('results-inner').innerHTML = '';
+}
+
+loadData();
