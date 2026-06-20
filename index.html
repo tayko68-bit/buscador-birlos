@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Buscador de Birlos</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>Buscador de Birlos</h1>
+    <p class="subtitle">Busca por vehículo o código de birlo (ATSA, Birlos Internacionales, Hércules)</p>
+  </header>
+
+  <section class="search-box">
+    <div class="search-tabs">
+      <button class="tab active" data-tab="vehiculo">Buscar por vehículo</button>
+      <button class="tab" data-tab="codigo">Buscar por código</button>
+    </div>
+
+    <div id="search-vehiculo" class="search-panel active">
+      <div class="form-row">
+        <div class="form-group">
+          <label>Marca</label>
+          <select id="sel-marca"><option value="">Selecciona marca</option></select>
+        </div>
+        <div class="form-group">
+          <label>Modelo</label>
+          <select id="sel-modelo" disabled><option value="">Selecciona modelo</option></select>
+        </div>
+        <div class="form-group">
+          <label>Año</label>
+          <select id="sel-anio" disabled><option value="">Selecciona año</option></select>
+        </div>
+        <div class="form-group">
+          <label>Posición</label>
+          <select id="sel-posicion" disabled><option value="">Todas</option></select>
+        </div>
+      </div>
+    </div>
+
+    <div id="search-codigo" class="search-panel">
+      <div class="form-row">
+        <div class="form-group" style="flex:2">
+          <label>Código (ATSA, B.I., Hércules, Original)</label>
+          <input type="text" id="input-codigo" placeholder="Ej: 4128-R, BR40-004RP, H44-128, 4222125025R">
+        </div>
+        <div class="form-group" style="flex:0">
+          <button id="btn-buscar-codigo" class="btn">Buscar</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="results">
+    <div id="count-info"></div>
+    <div id="results-list"></div>
+  </section>
+
+  <div id="no-results" class="hidden">
+    <p>No se encontraron resultados.</p>
+  </div>
+</div>
+
+<div id="loading" class="loading hidden">
+  <div class="spinner"></div>
+  <p>Cargando datos...</p>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

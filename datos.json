@@ -1,0 +1,6865 @@
+[
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "MUSTANG, FRENO DE DISCO",
+      "anio": "69/73",
+      "posicion": "Delantero"
+    },
+    "birlo_bi": "BR30-018RP",
+    "tuerca_recomendada": "TA10-104 (RG-RP)",
+    "atsa": [
+      {
+        "codigo_atsa": "3121-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "AUTOMOVIL AÑO 69/73 MODELO MUSTANG MUSTANG II DELANTERO",
+        "rosca": "1/2-20",
+        "longitud_total": "2.031\" - 51.5874mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "C9OZ-1107A",
+        "equiv_hercules": "33-121",
+        "tuerca_codigo": "14-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "MUSTANG, FRENO DE DISCO",
+      "anio": "69/73",
+      "posicion": "Delantero"
+    },
+    "birlo_bi": "BR30-028RP",
+    "tuerca_recomendada": "TA10-104 (RG-RP)",
+    "atsa": [
+      {
+        "codigo_atsa": "3099-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "CAMIONETA AÑO 69/72 MODELO DINA 1000 PICK UP GALAXIE DELANTERO",
+        "rosca": "1/2-20",
+        "longitud_total": "1.84\" - 46.736mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "C9AZ-1107A",
+        "equiv_hercules": "33-099",
+        "tuerca_codigo": "14-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "MYSTIQUE",
+      "anio": "96/00",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR73-009RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "MAZDA",
+      "modelo": "MX-5",
+      "anio": "06/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR73-009RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "MAZDA",
+      "modelo": "PICK UP",
+      "anio": "86/09",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR73-009RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "MYSTIQUE",
+      "anio": "96/98",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR30-039RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": [
+      {
+        "codigo_atsa": "3181-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "AUTOMOVIL AÑO 96/98 MODELO CONTOUR Y MISTIQUE DELANTERO/TRASERO",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.64\" - 41.656mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "33-174",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "NAVIGATOR",
+      "anio": "00/04",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR30-059RP",
+    "tuerca_recomendada": "TA60-431RT / TA10-122RT / TA60-409RG",
+    "atsa": [
+      {
+        "codigo_atsa": "3184-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "CAMIONETA AÑO 00/04 MODELO LOBO HARLEY DAVIDSON DELANTERO/TRASERO",
+        "rosca": "M14X2",
+        "longitud_total": "2.204\" - 55.9816mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "33-150",
+        "tuerca_codigo": "152-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "NAVIGATOR",
+      "anio": "00/03",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR30-060RP",
+    "tuerca_recomendada": "TA60-431RT / TA10-122RT / TA60-409RG",
+    "atsa": [
+      {
+        "codigo_atsa": "3185-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "CAMIONETA AÑO 00/03 MODELO EXCURTION NAVIGATOR DELANTERO",
+        "rosca": "M14X2",
+        "longitud_total": "2.204\" - 55.9816mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "33-151",
+        "tuerca_codigo": "152-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "NAVIGATOR",
+      "anio": "04/06",
+      "posicion": "Delantero"
+    },
+    "birlo_bi": "BR30-076RP",
+    "tuerca_recomendada": "TA10-132RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "P-400",
+      "anio": "70/96",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR30-008RP",
+    "tuerca_recomendada": "TA10-128RG / TA60-410RG",
+    "atsa": [
+      {
+        "codigo_atsa": "3037-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "CAMIONETA AÑO 67/98 MODELO F-350(DOBLE RODADO) TRASERO",
+        "rosca": "9/16-18",
+        "longitud_total": "2.828\" - 71.8312mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "D0TZ-1107A",
+        "equiv_hercules": "33-037",
+        "tuerca_codigo": "21-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "P-400",
+      "anio": "70/96",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR30-009LP",
+    "tuerca_recomendada": "TA10-129LG",
+    "atsa": [
+      {
+        "codigo_atsa": "3038-L",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "CAMIONETA AÑO 67/98 MODELO F-350(DOBLE RODADO) TRASERO",
+        "rosca": "9/16-18",
+        "longitud_total": "2.828\" - 71.8312mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "DOTZ-1119A",
+        "equiv_hercules": "33-038",
+        "tuerca_codigo": "22-L",
+        "tuerca_tipo": "CÓNICA"
+      },
+      {
+        "codigo_atsa": "3038E-L",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "CAMIONETA AÑO 67/96 MODELO FORD C-350 400 USA(DOBLE RODADO)TRASERO",
+        "rosca": "9/16-18",
+        "longitud_total": "3.062\" - 77.7748mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "33-042L",
+        "tuerca_codigo": "22-L",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "P-400",
+      "anio": "67/96",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR30-806RP",
+    "tuerca_recomendada": "TA10-128RG / TA60-410RG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "PICK UP",
+      "anio": "89/92",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR73-004RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "MAZDA",
+      "modelo": "PICK UP",
+      "anio": "91/97",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR73-004RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "PICK UP AMERICANA",
+      "anio": "75/77",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR30-801RP",
+    "tuerca_recomendada": "TA10-104 (RG-RP)",
+    "atsa": [
+      {
+        "codigo_atsa": "3132-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "AUTOMOVIL AÑO 76/94 MODELO ESCORT MUSTANG USA DELANTERO",
+        "rosca": "1/2-20",
+        "longitud_total": "1.75\" - 44.45mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "33-132 29-510",
+        "tuerca_codigo": "14-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "TORINO",
+      "anio": "86/97",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR30-801RP",
+    "tuerca_recomendada": "TA10-104 (RG-RP)",
+    "atsa": [
+      {
+        "codigo_atsa": "3132-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "AUTOMOVIL AÑO 76/94 MODELO ESCORT MUSTANG USA DELANTERO",
+        "rosca": "1/2-20",
+        "longitud_total": "1.75\" - 44.45mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "33-132 29-510",
+        "tuerca_codigo": "14-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "PICK UP AMERICANA",
+      "anio": "90/97",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR30-803RP",
+    "tuerca_recomendada": "TA10-104 (RG-RP)",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "TORINO",
+      "anio": "90/97",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR30-803RP",
+    "tuerca_recomendada": "TA10-104 (RG-RP)",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "PICK UP COURIER",
+      "anio": "98/03",
+      "posicion": "Delantero"
+    },
+    "birlo_bi": "BR30-042RP",
+    "tuerca_recomendada": "TA10-115RT",
+    "atsa": [
+      {
+        "codigo_atsa": "3175-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "AUTOMOVIL AÑO 98/04 MODELO FORD IKON FIESTA FOCUS ECOSPORT COURIR DELANTERO",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.65\" - 41.91mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "F5RZ-1107A",
+        "equiv_hercules": "33-177",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "PICK UP COURIER",
+      "anio": "98/03",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR30-043RP",
+    "tuerca_recomendada": "TA10-115RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "PICK UP F-100",
+      "anio": "61/89",
+      "posicion": "Delantero"
+    },
+    "birlo_bi": "BR30-010RP",
+    "tuerca_recomendada": "TA10-104 (RG-RP)",
+    "atsa": [
+      {
+        "codigo_atsa": "3162-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "AUTOMOVIL AÑO 61/89 MODELO LTD F-100 F-150 MAVERICK MUSTANG DELANTERO",
+        "rosca": "1/2-20",
+        "longitud_total": "1.468\" - 37.2872mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "C1AZ-1107A",
+        "equiv_hercules": "33-162",
+        "tuerca_codigo": "14-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "PICK UP F-150",
+      "anio": "61/89",
+      "posicion": "Delantero"
+    },
+    "birlo_bi": "BR30-010RP",
+    "tuerca_recomendada": "TA10-104 (RG-RP)",
+    "atsa": [
+      {
+        "codigo_atsa": "3162-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "AUTOMOVIL AÑO 61/89 MODELO LTD F-100 F-150 MAVERICK MUSTANG DELANTERO",
+        "rosca": "1/2-20",
+        "longitud_total": "1.468\" - 37.2872mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "C1AZ-1107A",
+        "equiv_hercules": "33-162",
+        "tuerca_codigo": "14-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "PICK UP F-100",
+      "anio": "69/77",
+      "posicion": "Delantero"
+    },
+    "birlo_bi": "BR30-011RP",
+    "tuerca_recomendada": "TA10-104 (RG-RP)",
+    "atsa": [
+      {
+        "codigo_atsa": "3058-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "CAM.39/83 PICK UP F-100/150   1/2 TON LIBERTY FALCON MAVERICK MUSTANG DEL/TRASERO",
+        "rosca": "1/2-20",
+        "longitud_total": "1.484\" - 37.6936mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "A9AZ-1107A",
+        "equiv_hercules": "33-058",
+        "tuerca_codigo": "14-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "PICK UP F-150 1/2 TON",
+      "anio": "69/77",
+      "posicion": "Delantero"
+    },
+    "birlo_bi": "BR30-011RP",
+    "tuerca_recomendada": "TA10-104 (RG-RP)",
+    "atsa": [
+      {
+        "codigo_atsa": "3058-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "CAM.39/83 PICK UP F-100/150   1/2 TON LIBERTY FALCON MAVERICK MUSTANG DEL/TRASERO",
+        "rosca": "1/2-20",
+        "longitud_total": "1.484\" - 37.6936mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "A9AZ-1107A",
+        "equiv_hercules": "33-058",
+        "tuerca_codigo": "14-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "AMERICAN CLASSIC JAVELIN",
+      "anio": "60/74",
+      "posicion": "Delantero"
+    },
+    "birlo_bi": "BR30-011RP",
+    "tuerca_recomendada": "TA10-102RG",
+    "atsa": [
+      {
+        "codigo_atsa": "3058-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "CAM.39/83 PICK UP F-100/150   1/2 TON LIBERTY FALCON MAVERICK MUSTANG DEL/TRASERO",
+        "rosca": "1/2-20",
+        "longitud_total": "1.484\" - 37.6936mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "A9AZ-1107A",
+        "equiv_hercules": "33-058",
+        "tuerca_codigo": "14-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "PICK UP F-100",
+      "anio": "69/77",
+      "posicion": "Delantero"
+    },
+    "birlo_bi": "BR30-809RP",
+    "tuerca_recomendada": "TA10-104 (RG-RP)",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "PICK UP F-150 1/2 TON",
+      "anio": "69/77",
+      "posicion": "Delantero"
+    },
+    "birlo_bi": "BR30-809RP",
+    "tuerca_recomendada": "TA10-104 (RG-RP)",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "PICK UP F-150",
+      "anio": "92/97",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR30-035RP",
+    "tuerca_recomendada": "TA10-104 (RG-RP)",
+    "atsa": [
+      {
+        "codigo_atsa": "3177-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "CAMIONETA AÑO 92/97 MODELO PICK UP F-150 250 DELANTERO/TRASERO",
+        "rosca": "1/2-20",
+        "longitud_total": "2.25\" - 57.15mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-025",
+        "tuerca_codigo": "14-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "PICK UP F-250",
+      "anio": "92/97",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR30-035RP",
+    "tuerca_recomendada": "TA10-104 (RG-RP)",
+    "atsa": [
+      {
+        "codigo_atsa": "3177-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "CAMIONETA AÑO 92/97 MODELO PICK UP F-150 250 DELANTERO/TRASERO",
+        "rosca": "1/2-20",
+        "longitud_total": "2.25\" - 57.15mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-025",
+        "tuerca_codigo": "14-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "PICK UP F-150",
+      "anio": "96/99",
+      "posicion": "Delantero"
+    },
+    "birlo_bi": "BR30-082RP",
+    "tuerca_recomendada": "TA10-104 (RG-RP)",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "PICK UP F-250",
+      "anio": "96/99",
+      "posicion": "Delantero"
+    },
+    "birlo_bi": "BR30-082RP",
+    "tuerca_recomendada": "TA10-104 (RG-RP)",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "PICK UP LOBO",
+      "anio": "96/98",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR30-036RP",
+    "tuerca_recomendada": "TA60-430RT",
+    "atsa": [
+      {
+        "codigo_atsa": "3171-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "AUTOMOVIL AÑO 96/01 MODELO PICK UP FORD LOBO EXPEDITION TRASERO",
+        "rosca": "M12X1.75",
+        "longitud_total": "2\" - 50.8mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "33-171",
+        "tuerca_codigo": "151-R",
+        "tuerca_tipo": "CAMPANA"
+      },
+      {
+        "codigo_atsa": "3205-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "EXPEDITION 4x4 AÑO 96/00",
+        "rosca": "M12X1.75",
+        "longitud_total": "2.124\" - 53.9496mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "33-155",
+        "tuerca_codigo": "151-R",
+        "tuerca_tipo": "CAMPANA"
+      },
+      {
+        "codigo_atsa": "3209-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "LOBO PICK-UP TRUCK EXPEDITION LINCOLN 96-00",
+        "rosca": "M12X1.75",
+        "longitud_total": "2.03\" - 51.562mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "33-171",
+        "tuerca_codigo": "",
+        "tuerca_tipo": ""
+      },
+      {
+        "codigo_atsa": "4901-R",
+        "categoria": "REMOLQUE GRADO 8",
+        "aplicacion": "PRODUCCION ESPECIAL",
+        "rosca": "M12X1.75",
+        "longitud_total": "2.03\" - 51.562mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "33-171",
+        "tuerca_codigo": "151-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "PICK UP RANGER",
+      "anio": "96/12",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR30-038RP",
+    "tuerca_recomendada": "TA10-104 (RG-RP)",
+    "atsa": [
+      {
+        "codigo_atsa": "3179-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "CAMIONETA AÑO 96/03 MODELO FORD RANGER EXPLORER MUSTANG TRASERO",
+        "rosca": "1/2-20",
+        "longitud_total": "1.875\" - 47.625mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "33-176",
+        "tuerca_codigo": "14-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "PICK UP RANGER",
+      "anio": "96/12",
+      "posicion": "Delantero"
+    },
+    "birlo_bi": "BR30-037RP",
+    "tuerca_recomendada": "TA10-104 (RG-RP)",
+    "atsa": [
+      {
+        "codigo_atsa": "3195-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "COUGAR FAIRMONT MAVERICK MUSTANG PENTHER 78-91 EXPLORER RANGER FORD94-03 R.DEL.",
+        "rosca": "1/2-20",
+        "longitud_total": "1.893\" - 48.0822mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "A-5864",
+        "equiv_hercules": "29-298",
+        "tuerca_codigo": "12-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "RANGER",
+      "anio": "16/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR30-087RP",
+    "tuerca_recomendada": "TA30-324RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "RANGER",
+      "anio": "96/99",
+      "posicion": "Delantero"
+    },
+    "birlo_bi": "BR30-078RP",
+    "tuerca_recomendada": "TA10-104 (RG-RP)",
+    "atsa": [
+      {
+        "codigo_atsa": "3198-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "CAMIONETA AÑO MODELO BRONCO EXPLORER DELANTERO",
+        "rosca": "1/2-20",
+        "longitud_total": "2.356\" - 59.8424mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "A-5004",
+        "equiv_hercules": "33-065",
+        "tuerca_codigo": "12-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "SABLE",
+      "anio": "00/04",
+      "posicion": "Delantero"
+    },
+    "birlo_bi": "BR30-064RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": [
+      {
+        "codigo_atsa": "3188-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "AUTOMOVIL AÑO 00/03 MODELO WINDSTAR RUEDA DELANTERA",
+        "rosca": "M12X1.5",
+        "longitud_total": "2.165\" - 54.991mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "33-154",
+        "tuerca_codigo": "174-R",
+        "tuerca_tipo": "CROMADA DE LUJO"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "WINDSTAR",
+      "anio": "94/04",
+      "posicion": "Delantero"
+    },
+    "birlo_bi": "BR30-064RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": [
+      {
+        "codigo_atsa": "3188-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "AUTOMOVIL AÑO 00/03 MODELO WINDSTAR RUEDA DELANTERA",
+        "rosca": "M12X1.5",
+        "longitud_total": "2.165\" - 54.991mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "33-154",
+        "tuerca_codigo": "174-R",
+        "tuerca_tipo": "CROMADA DE LUJO"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "SUPER DUTY F-350",
+      "anio": "97/98",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR30-062RP",
+    "tuerca_recomendada": "TA10-128RG / TA60-434RP",
+    "atsa": [
+      {
+        "codigo_atsa": "3187-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "CAMIONETA AÑO 97/98 MODELO 350 SUPER DUTY TRASERA",
+        "rosca": "9/16-18",
+        "longitud_total": "2.937\" - 74.5998mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "33-273 33-153",
+        "tuerca_codigo": "21-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "SUPER DUTY F-350",
+      "anio": "97/98",
+      "posicion": "Delantero"
+    },
+    "birlo_bi": "BR30-061RP",
+    "tuerca_recomendada": "TA60-434RP",
+    "atsa": [
+      {
+        "codigo_atsa": "3186-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "CAMIONETA AÑO 97/98 MODELO 350 SUPER DUTY DELANTERO",
+        "rosca": "9/16-18",
+        "longitud_total": "2.562\" - 65.0748mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "33-272",
+        "tuerca_codigo": "21-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "TAURUS",
+      "anio": "84/91",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR30-007RP",
+    "tuerca_recomendada": "TA10-115RT",
+    "atsa": [
+      {
+        "codigo_atsa": "3163-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "AUTOMOVIL AÑO 84/94 MODELO TOPAZ TAURUS DELANTERO",
+        "rosca": "M12X1.5",
+        "longitud_total": "2\" - 50.8mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "EA3Z-1107A",
+        "equiv_hercules": "33-163 33-182",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "TOPAZ",
+      "anio": "84/91",
+      "posicion": "Delantero"
+    },
+    "birlo_bi": "BR30-007RP",
+    "tuerca_recomendada": "TA10-115RT",
+    "atsa": [
+      {
+        "codigo_atsa": "3163-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "AUTOMOVIL AÑO 84/94 MODELO TOPAZ TAURUS DELANTERO",
+        "rosca": "M12X1.5",
+        "longitud_total": "2\" - 50.8mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "EA3Z-1107A",
+        "equiv_hercules": "33-163 33-182",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "TAURUS",
+      "anio": "84/91",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR30-013RP",
+    "tuerca_recomendada": "TA10-115RT",
+    "atsa": [
+      {
+        "codigo_atsa": "3164-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "AUTOMOVIL AÑO 84/94 MODELO TOPAZ TAURUS TRASERO",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.75\" - 44.45mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "E3FZ-1107A",
+        "equiv_hercules": "33-164",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "TOPAZ",
+      "anio": "84/91",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR30-013RP",
+    "tuerca_recomendada": "TA10-115RT",
+    "atsa": [
+      {
+        "codigo_atsa": "3164-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "AUTOMOVIL AÑO 84/94 MODELO TOPAZ TAURUS TRASERO",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.75\" - 44.45mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "E3FZ-1107A",
+        "equiv_hercules": "33-164",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "THUNDERBIRD",
+      "anio": "85/94",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR30-023RP",
+    "tuerca_recomendada": "TA10-104 (RG-RP)",
+    "atsa": [
+      {
+        "codigo_atsa": "3166-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "AUTOMOVIL AÑO 85/94 MODELO COUGAR THUNDERBIRD TRASERO",
+        "rosca": "1/2-20",
+        "longitud_total": "1.796\" - 45.6184mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "E3DZ-1107A",
+        "equiv_hercules": "33-166",
+        "tuerca_codigo": "14-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "THUNDERBIRD SC",
+      "anio": "91/94",
+      "posicion": "Delantero"
+    },
+    "birlo_bi": "BR30-044RP",
+    "tuerca_recomendada": "TA10-115RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "THUNDERBIRD SC",
+      "anio": "91/94",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR30-045RP",
+    "tuerca_recomendada": "TA10-115RT",
+    "atsa": [
+      {
+        "codigo_atsa": "3183-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "AUTOMOVIL AÑO 91/94 MODELO COUGAR XR7 THUNDERBIRD SC TRASERO",
+        "rosca": "M12X1.5",
+        "longitud_total": "2\" - 50.8mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "33-180",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "TOPAZ",
+      "anio": "92/94",
+      "posicion": "Delantero"
+    },
+    "birlo_bi": "BR30-033RP",
+    "tuerca_recomendada": "TA10-115RT",
+    "atsa": [
+      {
+        "codigo_atsa": "3170-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "AUTOMOVIL AÑO 93/98 MODELO TOPAZ DELANTERO",
+        "rosca": "M12X1.5",
+        "longitud_total": "2.031\" - 51.5874mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "F2DZ-1107A",
+        "equiv_hercules": "33-170",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "TOPAZ",
+      "anio": "92/94",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR30-034RP",
+    "tuerca_recomendada": "TA10-115RT",
+    "atsa": [
+      {
+        "codigo_atsa": "3180-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "AUTOMOVIL AÑO 84/98 MODELO TOPAZ GIA RUEDA TRASERA DELANTERO",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.653\" - 41.9862mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "TRANSIT",
+      "anio": "06/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR30-066RP",
+    "tuerca_recomendada": "TA60-431RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "TRITON F-350",
+      "anio": "03/05",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR30-075RP",
+    "tuerca_recomendada": "TA60-448RT",
+    "atsa": [
+      {
+        "codigo_atsa": "3192-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "CAMIONETA AÑO 03/05 MODELO TRITON F-350 450 550 Y 650 TRASERO",
+        "rosca": "M14X1.5",
+        "longitud_total": "3.235\" - 82.169mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "33-373",
+        "tuerca_codigo": "72-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "TRITON F-450",
+      "anio": "03/05",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR30-075RP",
+    "tuerca_recomendada": "TA60-448RT",
+    "atsa": [
+      {
+        "codigo_atsa": "3192-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "CAMIONETA AÑO 03/05 MODELO TRITON F-350 450 550 Y 650 TRASERO",
+        "rosca": "M14X1.5",
+        "longitud_total": "3.235\" - 82.169mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "33-373",
+        "tuerca_codigo": "72-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "TRITON F-550",
+      "anio": "03/05",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR30-075RP",
+    "tuerca_recomendada": "TA60-448RT",
+    "atsa": [
+      {
+        "codigo_atsa": "3192-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "CAMIONETA AÑO 03/05 MODELO TRITON F-350 450 550 Y 650 TRASERO",
+        "rosca": "M14X1.5",
+        "longitud_total": "3.235\" - 82.169mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "33-373",
+        "tuerca_codigo": "72-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "TRITON F-650",
+      "anio": "03/05",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR30-075RP",
+    "tuerca_recomendada": "TA60-448RT",
+    "atsa": [
+      {
+        "codigo_atsa": "3192-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "CAMIONETA AÑO 03/05 MODELO TRITON F-350 450 550 Y 650 TRASERO",
+        "rosca": "M14X1.5",
+        "longitud_total": "3.235\" - 82.169mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "33-373",
+        "tuerca_codigo": "72-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "TRITON F-350",
+      "anio": "99/04",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR30-047RP",
+    "tuerca_recomendada": "TA60-431RT",
+    "atsa": [
+      {
+        "codigo_atsa": "3173-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "CAMIONETA AÑO 99/01 MODELO FORD TRITON F-350 F-450 TRASERO",
+        "rosca": "M14X2",
+        "longitud_total": "3.082\" - 78.2828mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "33-173",
+        "tuerca_codigo": "152-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "TRITON F-450",
+      "anio": "99/04",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR30-047RP",
+    "tuerca_recomendada": "TA60-431RT",
+    "atsa": [
+      {
+        "codigo_atsa": "3173-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "CAMIONETA AÑO 99/01 MODELO FORD TRITON F-350 F-450 TRASERO",
+        "rosca": "M14X2",
+        "longitud_total": "3.082\" - 78.2828mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "33-173",
+        "tuerca_codigo": "152-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "TRITON F-350",
+      "anio": "99/04",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR30-048RP",
+    "tuerca_recomendada": "TA60-431RT",
+    "atsa": [
+      {
+        "codigo_atsa": "3172-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "CAMIONETA AÑO 99/01 MODELO FORD TRITON F-350 F-450 DELANTERO",
+        "rosca": "M14X2",
+        "longitud_total": "2.67\" - 67.818mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "33-172",
+        "tuerca_codigo": "152-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "TRITON F-450",
+      "anio": "99/04",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR30-048RP",
+    "tuerca_recomendada": "TA60-431RT",
+    "atsa": [
+      {
+        "codigo_atsa": "3172-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "CAMIONETA AÑO 99/01 MODELO FORD TRITON F-350 F-450 DELANTERO",
+        "rosca": "M14X2",
+        "longitud_total": "2.67\" - 67.818mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "33-172",
+        "tuerca_codigo": "152-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "TRITON F-350",
+      "anio": "03/05",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR30-074RP",
+    "tuerca_recomendada": "TA60-448RT",
+    "atsa": [
+      {
+        "codigo_atsa": "3191-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "CAMIONETA AÑO 03/05 MODELO TRITON F-350 450 550 Y 650 DELANTERO",
+        "rosca": "M14X1.5",
+        "longitud_total": "2.75\" - 69.85mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "33-372",
+        "tuerca_codigo": "72-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "TRITON F-450",
+      "anio": "03/05",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR30-074RP",
+    "tuerca_recomendada": "TA60-448RT",
+    "atsa": [
+      {
+        "codigo_atsa": "3191-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "CAMIONETA AÑO 03/05 MODELO TRITON F-350 450 550 Y 650 DELANTERO",
+        "rosca": "M14X1.5",
+        "longitud_total": "2.75\" - 69.85mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "33-372",
+        "tuerca_codigo": "72-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "TRITON F-550",
+      "anio": "03/05",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR30-074RP",
+    "tuerca_recomendada": "TA60-448RT",
+    "atsa": [
+      {
+        "codigo_atsa": "3191-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "CAMIONETA AÑO 03/05 MODELO TRITON F-350 450 550 Y 650 DELANTERO",
+        "rosca": "M14X1.5",
+        "longitud_total": "2.75\" - 69.85mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "33-372",
+        "tuerca_codigo": "72-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "TRITON F-650",
+      "anio": "03/05",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR30-074RP",
+    "tuerca_recomendada": "TA60-448RT",
+    "atsa": [
+      {
+        "codigo_atsa": "3191-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "CAMIONETA AÑO 03/05 MODELO TRITON F-350 450 550 Y 650 DELANTERO",
+        "rosca": "M14X1.5",
+        "longitud_total": "2.75\" - 69.85mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "33-372",
+        "tuerca_codigo": "72-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "WINDSTAR",
+      "anio": "95/99",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR30-063RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": [
+      {
+        "codigo_atsa": "3210-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "WINDSTAR FORD TRUCK 95-99 R.DEL/TRAS.",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.91496062992126\" - 48.64mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "33-183",
+        "tuerca_codigo": "41E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "FORD",
+      "modelo": "WINDSTAR",
+      "anio": "94/04",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR30-065RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": [
+      {
+        "codigo_atsa": "3189-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "AUTOMOVIL AÑO 00/03 MODELO WINDSTAR RUEDA TRASERA",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.94\" - 49.276mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "33-146",
+        "tuerca_codigo": "174-R",
+        "tuerca_tipo": "CROMADA DE LUJO"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "300ZX",
+      "anio": "90/93",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-033RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "370Z TOURING",
+      "anio": "06/12",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-033RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "ARMADA (SL, SV)",
+      "anio": "04/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-033RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "LUCINO",
+      "anio": "92/99",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-033RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "MAXIMA (S, SV)",
+      "anio": "94/12",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-033RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "MURANO",
+      "anio": "92/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-033RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "QUEST (S, SL, SV)",
+      "anio": "05/12",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-033RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "SENTRA (SC, SR)",
+      "anio": "09/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-033RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "anio": "92/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-033RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "TIIDA",
+      "anio": "05/18",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-033RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "TITAN LE PRO4X",
+      "anio": "04/10",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-033RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "TSURU",
+      "anio": "92/17",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-033RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "URVAN",
+      "anio": "92/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-033RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "VERSA 1.6 S, 1.6 SC",
+      "anio": "09/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-033RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "X-TERRA",
+      "anio": "05/10",
+      "posicion": "Delantero"
+    },
+    "birlo_bi": "BR40-033RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "300ZX",
+      "anio": "90/93",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-009RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4162-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "NISSAN 92/99 TSURU SENTRA LUCINO MURANO URVAN TITAN  DELANTERO",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.63\" - 41.402mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "4322221B00",
+        "equiv_hercules": "44-162 29-001",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "370Z TOURING",
+      "anio": "06/12",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-009RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4162-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "NISSAN 92/99 TSURU SENTRA LUCINO MURANO URVAN TITAN  DELANTERO",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.63\" - 41.402mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "4322221B00",
+        "equiv_hercules": "44-162 29-001",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "ALTIMA (S, SL, SR)",
+      "anio": "93/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-009RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4162-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "NISSAN 92/99 TSURU SENTRA LUCINO MURANO URVAN TITAN  DELANTERO",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.63\" - 41.402mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "4322221B00",
+        "equiv_hercules": "44-162 29-001",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "ARMADA (SL, SV)",
+      "anio": "04/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-009RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4162-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "NISSAN 92/99 TSURU SENTRA LUCINO MURANO URVAN TITAN  DELANTERO",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.63\" - 41.402mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "4322221B00",
+        "equiv_hercules": "44-162 29-001",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "FRONTIER (S, SV)",
+      "anio": "04/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-009RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4162-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "NISSAN 92/99 TSURU SENTRA LUCINO MURANO URVAN TITAN  DELANTERO",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.63\" - 41.402mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "4322221B00",
+        "equiv_hercules": "44-162 29-001",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "JUKE",
+      "anio": "12/17",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-009RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4162-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "NISSAN 92/99 TSURU SENTRA LUCINO MURANO URVAN TITAN  DELANTERO",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.63\" - 41.402mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "4322221B00",
+        "equiv_hercules": "44-162 29-001",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "KICKS",
+      "anio": "16/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-009RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4162-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "NISSAN 92/99 TSURU SENTRA LUCINO MURANO URVAN TITAN  DELANTERO",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.63\" - 41.402mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "4322221B00",
+        "equiv_hercules": "44-162 29-001",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "LUCINO",
+      "anio": "92/99",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-009RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4162-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "NISSAN 92/99 TSURU SENTRA LUCINO MURANO URVAN TITAN  DELANTERO",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.63\" - 41.402mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "4322221B00",
+        "equiv_hercules": "44-162 29-001",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "MARCH",
+      "anio": "11/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-009RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4162-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "NISSAN 92/99 TSURU SENTRA LUCINO MURANO URVAN TITAN  DELANTERO",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.63\" - 41.402mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "4322221B00",
+        "equiv_hercules": "44-162 29-001",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "MAXIMA (S, SV)",
+      "anio": "97/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-009RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4162-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "NISSAN 92/99 TSURU SENTRA LUCINO MURANO URVAN TITAN  DELANTERO",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.63\" - 41.402mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "4322221B00",
+        "equiv_hercules": "44-162 29-001",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "MURANO (S, SL, SS)",
+      "anio": "04/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-009RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4162-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "NISSAN 92/99 TSURU SENTRA LUCINO MURANO URVAN TITAN  DELANTERO",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.63\" - 41.402mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "4322221B00",
+        "equiv_hercules": "44-162 29-001",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "NOTE",
+      "anio": "14/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-009RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4162-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "NISSAN 92/99 TSURU SENTRA LUCINO MURANO URVAN TITAN  DELANTERO",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.63\" - 41.402mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "4322221B00",
+        "equiv_hercules": "44-162 29-001",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "PATHFINDER (LE, S, SV)",
+      "anio": "08/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-009RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4162-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "NISSAN 92/99 TSURU SENTRA LUCINO MURANO URVAN TITAN  DELANTERO",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.63\" - 41.402mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "4322221B00",
+        "equiv_hercules": "44-162 29-001",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "QUEST (S, SL, SV)",
+      "anio": "05/12",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-009RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4162-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "NISSAN 92/99 TSURU SENTRA LUCINO MURANO URVAN TITAN  DELANTERO",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.63\" - 41.402mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "4322221B00",
+        "equiv_hercules": "44-162 29-001",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "ROGUE (S, SV)",
+      "anio": "10/12",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-009RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4162-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "NISSAN 92/99 TSURU SENTRA LUCINO MURANO URVAN TITAN  DELANTERO",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.63\" - 41.402mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "4322221B00",
+        "equiv_hercules": "44-162 29-001",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "anio": "92/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-009RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4162-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "NISSAN 92/99 TSURU SENTRA LUCINO MURANO URVAN TITAN  DELANTERO",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.63\" - 41.402mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "4322221B00",
+        "equiv_hercules": "44-162 29-001",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "SENTRA (SC, SR)",
+      "anio": "09/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-009RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4162-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "NISSAN 92/99 TSURU SENTRA LUCINO MURANO URVAN TITAN  DELANTERO",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.63\" - 41.402mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "4322221B00",
+        "equiv_hercules": "44-162 29-001",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "TIIDA",
+      "anio": "05/18",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-009RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4162-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "NISSAN 92/99 TSURU SENTRA LUCINO MURANO URVAN TITAN  DELANTERO",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.63\" - 41.402mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "4322221B00",
+        "equiv_hercules": "44-162 29-001",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "TITAN LE PRO4X",
+      "anio": "04/10",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-009RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4162-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "NISSAN 92/99 TSURU SENTRA LUCINO MURANO URVAN TITAN  DELANTERO",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.63\" - 41.402mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "4322221B00",
+        "equiv_hercules": "44-162 29-001",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "TSURU",
+      "anio": "92/17",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-009RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4162-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "NISSAN 92/99 TSURU SENTRA LUCINO MURANO URVAN TITAN  DELANTERO",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.63\" - 41.402mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "4322221B00",
+        "equiv_hercules": "44-162 29-001",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "URVAN",
+      "anio": "92/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-009RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4162-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "NISSAN 92/99 TSURU SENTRA LUCINO MURANO URVAN TITAN  DELANTERO",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.63\" - 41.402mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "4322221B00",
+        "equiv_hercules": "44-162 29-001",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "VERSA 1.6 S, 1.6 SC",
+      "anio": "09/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-009RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4162-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "NISSAN 92/99 TSURU SENTRA LUCINO MURANO URVAN TITAN  DELANTERO",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.63\" - 41.402mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "4322221B00",
+        "equiv_hercules": "44-162 29-001",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "X-TERRA",
+      "anio": "05/10",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-009RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4162-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "NISSAN 92/99 TSURU SENTRA LUCINO MURANO URVAN TITAN  DELANTERO",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.63\" - 41.402mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "4322221B00",
+        "equiv_hercules": "44-162 29-001",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "X-TRAIL",
+      "anio": "07/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-009RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4162-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "NISSAN 92/99 TSURU SENTRA LUCINO MURANO URVAN TITAN  DELANTERO",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.63\" - 41.402mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "4322221B00",
+        "equiv_hercules": "44-162 29-001",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "APRIO",
+      "anio": "08/13",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR10-039RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "1163-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "AUTOMOVIL AÑO 94/04 MOD CHEVY SWING MONZA ASTRA CORSA ZAFIRA MINI COOPER LAS 4 RUEDAS",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.875\" - 47.625mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "90473457",
+        "equiv_hercules": "11-165",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      },
+      {
+        "codigo_atsa": "4226-R",
+        "categoria": "RENAULT GRADO 8",
+        "aplicacion": "REANULT FORGON PEUGEOT PARTHAN",
+        "rosca": "M12X1.25",
+        "longitud_total": "2.465\" - 62.611mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "11-174",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "RENAULT",
+      "modelo": "DUSTER",
+      "anio": "12/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR10-039RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "1163-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "AUTOMOVIL AÑO 94/04 MOD CHEVY SWING MONZA ASTRA CORSA ZAFIRA MINI COOPER LAS 4 RUEDAS",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.875\" - 47.625mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "90473457",
+        "equiv_hercules": "11-165",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      },
+      {
+        "codigo_atsa": "4226-R",
+        "categoria": "RENAULT GRADO 8",
+        "aplicacion": "REANULT FORGON PEUGEOT PARTHAN",
+        "rosca": "M12X1.25",
+        "longitud_total": "2.465\" - 62.611mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "11-174",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "RENAULT",
+      "modelo": "FLUENCE",
+      "anio": "12/17",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR10-039RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "1163-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "AUTOMOVIL AÑO 94/04 MOD CHEVY SWING MONZA ASTRA CORSA ZAFIRA MINI COOPER LAS 4 RUEDAS",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.875\" - 47.625mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "90473457",
+        "equiv_hercules": "11-165",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      },
+      {
+        "codigo_atsa": "4226-R",
+        "categoria": "RENAULT GRADO 8",
+        "aplicacion": "REANULT FORGON PEUGEOT PARTHAN",
+        "rosca": "M12X1.25",
+        "longitud_total": "2.465\" - 62.611mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "11-174",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "RENAULT",
+      "modelo": "KWID",
+      "anio": "19/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR10-039RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "1163-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "AUTOMOVIL AÑO 94/04 MOD CHEVY SWING MONZA ASTRA CORSA ZAFIRA MINI COOPER LAS 4 RUEDAS",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.875\" - 47.625mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "90473457",
+        "equiv_hercules": "11-165",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      },
+      {
+        "codigo_atsa": "4226-R",
+        "categoria": "RENAULT GRADO 8",
+        "aplicacion": "REANULT FORGON PEUGEOT PARTHAN",
+        "rosca": "M12X1.25",
+        "longitud_total": "2.465\" - 62.611mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "11-174",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "RENAULT",
+      "modelo": "LOGAN",
+      "anio": "14/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR10-039RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "1163-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "AUTOMOVIL AÑO 94/04 MOD CHEVY SWING MONZA ASTRA CORSA ZAFIRA MINI COOPER LAS 4 RUEDAS",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.875\" - 47.625mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "90473457",
+        "equiv_hercules": "11-165",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      },
+      {
+        "codigo_atsa": "4226-R",
+        "categoria": "RENAULT GRADO 8",
+        "aplicacion": "REANULT FORGON PEUGEOT PARTHAN",
+        "rosca": "M12X1.25",
+        "longitud_total": "2.465\" - 62.611mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "11-174",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "RENAULT",
+      "modelo": "MEGANE",
+      "anio": "01/10",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR10-039RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "1163-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "AUTOMOVIL AÑO 94/04 MOD CHEVY SWING MONZA ASTRA CORSA ZAFIRA MINI COOPER LAS 4 RUEDAS",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.875\" - 47.625mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "90473457",
+        "equiv_hercules": "11-165",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      },
+      {
+        "codigo_atsa": "4226-R",
+        "categoria": "RENAULT GRADO 8",
+        "aplicacion": "REANULT FORGON PEUGEOT PARTHAN",
+        "rosca": "M12X1.25",
+        "longitud_total": "2.465\" - 62.611mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "11-174",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "RENAULT",
+      "modelo": "OROCH",
+      "anio": "18/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR10-039RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "1163-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "AUTOMOVIL AÑO 94/04 MOD CHEVY SWING MONZA ASTRA CORSA ZAFIRA MINI COOPER LAS 4 RUEDAS",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.875\" - 47.625mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "90473457",
+        "equiv_hercules": "11-165",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      },
+      {
+        "codigo_atsa": "4226-R",
+        "categoria": "RENAULT GRADO 8",
+        "aplicacion": "REANULT FORGON PEUGEOT PARTHAN",
+        "rosca": "M12X1.25",
+        "longitud_total": "2.465\" - 62.611mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "11-174",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "RENAULT",
+      "modelo": "SANDERO",
+      "anio": "10/18",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR10-039RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "1163-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "AUTOMOVIL AÑO 94/04 MOD CHEVY SWING MONZA ASTRA CORSA ZAFIRA MINI COOPER LAS 4 RUEDAS",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.875\" - 47.625mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "90473457",
+        "equiv_hercules": "11-165",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      },
+      {
+        "codigo_atsa": "4226-R",
+        "categoria": "RENAULT GRADO 8",
+        "aplicacion": "REANULT FORGON PEUGEOT PARTHAN",
+        "rosca": "M12X1.25",
+        "longitud_total": "2.465\" - 62.611mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "11-174",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "RENAULT",
+      "modelo": "STEPWAY",
+      "anio": "16/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR10-039RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "1163-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "AUTOMOVIL AÑO 94/04 MOD CHEVY SWING MONZA ASTRA CORSA ZAFIRA MINI COOPER LAS 4 RUEDAS",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.875\" - 47.625mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "90473457",
+        "equiv_hercules": "11-165",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      },
+      {
+        "codigo_atsa": "4226-R",
+        "categoria": "RENAULT GRADO 8",
+        "aplicacion": "REANULT FORGON PEUGEOT PARTHAN",
+        "rosca": "M12X1.25",
+        "longitud_total": "2.465\" - 62.611mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "11-174",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "BMW",
+      "modelo": "BMW (MODELOS ANTERIORES)",
+      "anio": "96/04",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR10-039RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "1163-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "AUTOMOVIL AÑO 94/04 MOD CHEVY SWING MONZA ASTRA CORSA ZAFIRA MINI COOPER LAS 4 RUEDAS",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.875\" - 47.625mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "90473457",
+        "equiv_hercules": "11-165",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      },
+      {
+        "codigo_atsa": "4226-R",
+        "categoria": "RENAULT GRADO 8",
+        "aplicacion": "REANULT FORGON PEUGEOT PARTHAN",
+        "rosca": "M12X1.25",
+        "longitud_total": "2.465\" - 62.611mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "11-174",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "anio": "96/04",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR10-039RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "1163-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "AUTOMOVIL AÑO 94/04 MOD CHEVY SWING MONZA ASTRA CORSA ZAFIRA MINI COOPER LAS 4 RUEDAS",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.875\" - 47.625mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "90473457",
+        "equiv_hercules": "11-165",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      },
+      {
+        "codigo_atsa": "4226-R",
+        "categoria": "RENAULT GRADO 8",
+        "aplicacion": "REANULT FORGON PEUGEOT PARTHAN",
+        "rosca": "M12X1.25",
+        "longitud_total": "2.465\" - 62.611mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "11-174",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "SUZUKI",
+      "modelo": "S-CROSS",
+      "anio": "18/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR10-039RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "1163-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "AUTOMOVIL AÑO 94/04 MOD CHEVY SWING MONZA ASTRA CORSA ZAFIRA MINI COOPER LAS 4 RUEDAS",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.875\" - 47.625mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "90473457",
+        "equiv_hercules": "11-165",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      },
+      {
+        "codigo_atsa": "4226-R",
+        "categoria": "RENAULT GRADO 8",
+        "aplicacion": "REANULT FORGON PEUGEOT PARTHAN",
+        "rosca": "M12X1.25",
+        "longitud_total": "2.465\" - 62.611mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "11-174",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "SUZUKI",
+      "modelo": "VITARA",
+      "anio": "18/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR10-039RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "1163-R",
+        "categoria": "FORD GRADO 8",
+        "aplicacion": "AUTOMOVIL AÑO 94/04 MOD CHEVY SWING MONZA ASTRA CORSA ZAFIRA MINI COOPER LAS 4 RUEDAS",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.875\" - 47.625mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "90473457",
+        "equiv_hercules": "11-165",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      },
+      {
+        "codigo_atsa": "4226-R",
+        "categoria": "RENAULT GRADO 8",
+        "aplicacion": "REANULT FORGON PEUGEOT PARTHAN",
+        "rosca": "M12X1.25",
+        "longitud_total": "2.465\" - 62.611mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "11-174",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "ICHIVAN",
+      "anio": "87/93",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-005RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4158-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "NISSAN 62/98  PICK UP ICHI VAN MAXIMA TSURU II URVAN  DEL/TRASERO",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.53\" - 38.862mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "40222B97GO",
+        "equiv_hercules": "44-158 29-504",
+        "tuerca_codigo": "41-R",
+        "tuerca_tipo": "CÓNICA"
+      },
+      {
+        "codigo_atsa": "4173-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "MAXIMA ICHIVAN 87-93 PICK-UP 78-96",
+        "rosca": "M12X1.25",
+        "longitud_total": "2.03\" - 51.562mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "44-258",
+        "tuerca_codigo": "",
+        "tuerca_tipo": ""
+      },
+      {
+        "codigo_atsa": "4910-R",
+        "categoria": "REMOLQUE GRADO 8",
+        "aplicacion": "MAXIMA ICHIVAN 87-93 PICK-UP 78-96",
+        "rosca": "M12X1.25",
+        "longitud_total": "2.03\" - 51.562mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "P022R",
+        "equiv_hercules": "44-258",
+        "tuerca_codigo": "41-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "MAXIMA",
+      "anio": "78/96",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-005RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4158-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "NISSAN 62/98  PICK UP ICHI VAN MAXIMA TSURU II URVAN  DEL/TRASERO",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.53\" - 38.862mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "40222B97GO",
+        "equiv_hercules": "44-158 29-504",
+        "tuerca_codigo": "41-R",
+        "tuerca_tipo": "CÓNICA"
+      },
+      {
+        "codigo_atsa": "4173-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "MAXIMA ICHIVAN 87-93 PICK-UP 78-96",
+        "rosca": "M12X1.25",
+        "longitud_total": "2.03\" - 51.562mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "44-258",
+        "tuerca_codigo": "",
+        "tuerca_tipo": ""
+      },
+      {
+        "codigo_atsa": "4910-R",
+        "categoria": "REMOLQUE GRADO 8",
+        "aplicacion": "MAXIMA ICHIVAN 87-93 PICK-UP 78-96",
+        "rosca": "M12X1.25",
+        "longitud_total": "2.03\" - 51.562mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "P022R",
+        "equiv_hercules": "44-258",
+        "tuerca_codigo": "41-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "PICK UP",
+      "anio": "78/96",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-005RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4158-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "NISSAN 62/98  PICK UP ICHI VAN MAXIMA TSURU II URVAN  DEL/TRASERO",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.53\" - 38.862mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "40222B97GO",
+        "equiv_hercules": "44-158 29-504",
+        "tuerca_codigo": "41-R",
+        "tuerca_tipo": "CÓNICA"
+      },
+      {
+        "codigo_atsa": "4173-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "MAXIMA ICHIVAN 87-93 PICK-UP 78-96",
+        "rosca": "M12X1.25",
+        "longitud_total": "2.03\" - 51.562mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "44-258",
+        "tuerca_codigo": "",
+        "tuerca_tipo": ""
+      },
+      {
+        "codigo_atsa": "4910-R",
+        "categoria": "REMOLQUE GRADO 8",
+        "aplicacion": "MAXIMA ICHIVAN 87-93 PICK-UP 78-96",
+        "rosca": "M12X1.25",
+        "longitud_total": "2.03\" - 51.562mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "P022R",
+        "equiv_hercules": "44-258",
+        "tuerca_codigo": "41-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "ICHIVAN",
+      "anio": "87/93",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-032RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "MAXIMA",
+      "anio": "78/96",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-032RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "PICK UP",
+      "anio": "78/96",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-032RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "LUCINO",
+      "anio": "92/99",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-008RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4163-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "NISSAN AÑO 92/99 TSURU SENTRA LUCINO MURANO URVAN  TRASERO",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.556\" - 39.5224mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "4322241B00",
+        "equiv_hercules": "44-163",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "MURANO",
+      "anio": "92/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-008RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4163-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "NISSAN AÑO 92/99 TSURU SENTRA LUCINO MURANO URVAN  TRASERO",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.556\" - 39.5224mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "4322241B00",
+        "equiv_hercules": "44-163",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "anio": "92/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-008RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4163-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "NISSAN AÑO 92/99 TSURU SENTRA LUCINO MURANO URVAN  TRASERO",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.556\" - 39.5224mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "4322241B00",
+        "equiv_hercules": "44-163",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "TSURU",
+      "anio": "92/17",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-008RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4163-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "NISSAN AÑO 92/99 TSURU SENTRA LUCINO MURANO URVAN  TRASERO",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.556\" - 39.5224mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "4322241B00",
+        "equiv_hercules": "44-163",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "URVAN",
+      "anio": "92/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-008RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4163-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "NISSAN AÑO 92/99 TSURU SENTRA LUCINO MURANO URVAN  TRASERO",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.556\" - 39.5224mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "4322241B00",
+        "equiv_hercules": "44-163",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "MAXIMA",
+      "anio": "85/88",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-012RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "SENTRA USA",
+      "anio": "82/85",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-012RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "MURANO",
+      "anio": "92/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-016RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "SENTRA",
+      "anio": "92/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-016RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "TIIDA",
+      "anio": "05/18",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-016RP",
+    "tuerca_recomendada": "TA1P-114RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "TSURU",
+      "anio": "92/17",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-016RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "NP300",
+      "anio": "08/20",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR40-014RP",
+    "tuerca_recomendada": "TA10-114RT / TA30-293RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "NP300",
+      "anio": "08/20",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR40-015RP",
+    "tuerca_recomendada": "TA10-114RT / TA30-293RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "PATHFINDER",
+      "anio": "97/07",
+      "posicion": "Delantero"
+    },
+    "birlo_bi": "BR40-011RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4174-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "PATHFINDER X-TERRA X-TRAIL 94-03 R.DEL",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.25984251968504\" - 32mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "44-165 44-170",
+        "tuerca_codigo": "41-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "PICK UP",
+      "anio": "97/04",
+      "posicion": "Delantero"
+    },
+    "birlo_bi": "BR40-011RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4174-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "PATHFINDER X-TERRA X-TRAIL 94-03 R.DEL",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.25984251968504\" - 32mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "44-165 44-170",
+        "tuerca_codigo": "41-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "X-TERRA",
+      "anio": "97/04",
+      "posicion": "Delantero"
+    },
+    "birlo_bi": "BR40-011RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4174-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "PATHFINDER X-TERRA X-TRAIL 94-03 R.DEL",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.25984251968504\" - 32mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "44-165 44-170",
+        "tuerca_codigo": "41-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "X-TRAIL",
+      "anio": "97/04",
+      "posicion": "Delantero"
+    },
+    "birlo_bi": "BR40-011RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4174-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "PATHFINDER X-TERRA X-TRAIL 94-03 R.DEL",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.25984251968504\" - 32mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "44-165 44-170",
+        "tuerca_codigo": "41-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "PATHFINDER",
+      "anio": "97/07",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR40-010RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "PICK UP",
+      "anio": "97/04",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR40-010RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "X-TERRA",
+      "anio": "97/04",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR40-010RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "X-TRAIL",
+      "anio": "97/04",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR40-010RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "PICK UP DATSUN",
+      "anio": "68/76",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-002RP",
+    "tuerca_recomendada": "TA10-100RG",
+    "atsa": [
+      {
+        "codigo_atsa": "4129-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "DATSUN AÑO 68/76 MODELO PICK UP DELANTERO/TRASERO",
+        "rosca": "7/16-20",
+        "longitud_total": "1.281\" - 32.5374mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "402222121R",
+        "equiv_hercules": "44-129",
+        "tuerca_codigo": "10-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "PLATINA",
+      "anio": "02/10",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-030RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4170-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "PLATINA CORTO",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.975\" - 50.165mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-337",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "RENAULT",
+      "modelo": "CLIO",
+      "anio": "07/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-030RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4170-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "PLATINA CORTO",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.975\" - 50.165mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-337",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "RENAULT",
+      "modelo": "KANGOO",
+      "anio": "04/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-030RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4170-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "PLATINA CORTO",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.975\" - 50.165mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-337",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "SEDAN",
+      "anio": "79/89",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR40-001RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4159-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "NISSAN  AÑO 79/89 MODELO SEDAN TRASERO",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.65\" - 41.91mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "43000W57GO",
+        "equiv_hercules": "44-159",
+        "tuerca_codigo": "41-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "SEDAN",
+      "anio": "79/89",
+      "posicion": "Delantero"
+    },
+    "birlo_bi": "BR40-003RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4160-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "NISSAN AÑO 79/89 MODELO SEDAN  SAKURA SAMURAI DELANTERO",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.25\" - 31.75mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "40222W57GO",
+        "equiv_hercules": "44-160",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "SEDAN",
+      "anio": "62/78",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-004RP",
+    "tuerca_recomendada": "TA10-100RG",
+    "atsa": [
+      {
+        "codigo_atsa": "4128-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "DATSUN AÑO 62/78 MODELO SEDAN DELANTERO/TRASERO",
+        "rosca": "7/16-20",
+        "longitud_total": "1.531\" - 38.8874mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "4222125025R",
+        "equiv_hercules": "44-128",
+        "tuerca_codigo": "10-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "TSURU",
+      "anio": "84/87",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-006RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4161-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "NISSAN  AÑO 84/92 MODELO TSURU I II DELANTERO",
+        "rosca": "M12X1.25",
+        "longitud_total": "1.3\" - 33.02mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "40222A03G1",
+        "equiv_hercules": "44-161",
+        "tuerca_codigo": "40E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "NISSAN",
+      "modelo": "TSURU",
+      "anio": "84/87",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR40-013RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "AMAROK",
+      "anio": "15/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-030RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "TOUAREG",
+      "anio": "15/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-030RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "TRANSPORTER",
+      "anio": "15/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-030RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "ATLANTIC",
+      "anio": "79/84",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-002RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "CARIBE",
+      "anio": "77/87",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-002RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "anio": "79/84",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-002RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "JETTA",
+      "anio": "79/84",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-002RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "BEETLE",
+      "anio": "07/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-008RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4210-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "JETTA GOLF SEAT MOD. 2004",
+        "rosca": "M14X1.5",
+        "longitud_total": "1.906\" - 48.4124mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-318",
+        "tuerca_codigo": "42-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "BORA",
+      "anio": "07/16",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-008RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4210-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "JETTA GOLF SEAT MOD. 2004",
+        "rosca": "M14X1.5",
+        "longitud_total": "1.906\" - 48.4124mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-318",
+        "tuerca_codigo": "42-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "CADDY",
+      "anio": "17/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-008RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4210-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "JETTA GOLF SEAT MOD. 2004",
+        "rosca": "M14X1.5",
+        "longitud_total": "1.906\" - 48.4124mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-318",
+        "tuerca_codigo": "42-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "CROSSFOX",
+      "anio": "07/17",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-008RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4210-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "JETTA GOLF SEAT MOD. 2004",
+        "rosca": "M14X1.5",
+        "longitud_total": "1.906\" - 48.4124mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-318",
+        "tuerca_codigo": "42-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "EUROVAN CARGA",
+      "anio": "07/09",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-008RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4210-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "JETTA GOLF SEAT MOD. 2004",
+        "rosca": "M14X1.5",
+        "longitud_total": "1.906\" - 48.4124mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-318",
+        "tuerca_codigo": "42-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "anio": "14/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-008RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4210-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "JETTA GOLF SEAT MOD. 2004",
+        "rosca": "M14X1.5",
+        "longitud_total": "1.906\" - 48.4124mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-318",
+        "tuerca_codigo": "42-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "anio": "99/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-008RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4210-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "JETTA GOLF SEAT MOD. 2004",
+        "rosca": "M14X1.5",
+        "longitud_total": "1.906\" - 48.4124mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-318",
+        "tuerca_codigo": "42-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "JETTA",
+      "anio": "99/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-008RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4210-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "JETTA GOLF SEAT MOD. 2004",
+        "rosca": "M14X1.5",
+        "longitud_total": "1.906\" - 48.4124mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-318",
+        "tuerca_codigo": "42-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT",
+      "anio": "99/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-008RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4210-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "JETTA GOLF SEAT MOD. 2004",
+        "rosca": "M14X1.5",
+        "longitud_total": "1.906\" - 48.4124mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-318",
+        "tuerca_codigo": "42-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT CC",
+      "anio": "09/17",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-008RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4210-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "JETTA GOLF SEAT MOD. 2004",
+        "rosca": "M14X1.5",
+        "longitud_total": "1.906\" - 48.4124mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-318",
+        "tuerca_codigo": "42-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "anio": "10/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-008RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4210-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "JETTA GOLF SEAT MOD. 2004",
+        "rosca": "M14X1.5",
+        "longitud_total": "1.906\" - 48.4124mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-318",
+        "tuerca_codigo": "42-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO",
+      "anio": "10/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-008RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4210-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "JETTA GOLF SEAT MOD. 2004",
+        "rosca": "M14X1.5",
+        "longitud_total": "1.906\" - 48.4124mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-318",
+        "tuerca_codigo": "42-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "T-CROSS",
+      "anio": "19/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-008RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4210-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "JETTA GOLF SEAT MOD. 2004",
+        "rosca": "M14X1.5",
+        "longitud_total": "1.906\" - 48.4124mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-318",
+        "tuerca_codigo": "42-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "TIGUAN",
+      "anio": "08/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-008RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4210-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "JETTA GOLF SEAT MOD. 2004",
+        "rosca": "M14X1.5",
+        "longitud_total": "1.906\" - 48.4124mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-318",
+        "tuerca_codigo": "42-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "TOUAREG",
+      "anio": "10/14",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-008RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4210-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "JETTA GOLF SEAT MOD. 2004",
+        "rosca": "M14X1.5",
+        "longitud_total": "1.906\" - 48.4124mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-318",
+        "tuerca_codigo": "42-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "TRANSPORTER",
+      "anio": "07/14",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-008RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4210-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "JETTA GOLF SEAT MOD. 2004",
+        "rosca": "M14X1.5",
+        "longitud_total": "1.906\" - 48.4124mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-318",
+        "tuerca_codigo": "42-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "VENTO",
+      "anio": "14/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-008RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4210-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "JETTA GOLF SEAT MOD. 2004",
+        "rosca": "M14X1.5",
+        "longitud_total": "1.906\" - 48.4124mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-318",
+        "tuerca_codigo": "42-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "VIRTUS",
+      "anio": "19/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-008RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4210-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "JETTA GOLF SEAT MOD. 2004",
+        "rosca": "M14X1.5",
+        "longitud_total": "1.906\" - 48.4124mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-318",
+        "tuerca_codigo": "42-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "MERCEDES-BENZ",
+      "modelo": "C-200",
+      "anio": "07/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-008RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4210-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "JETTA GOLF SEAT MOD. 2004",
+        "rosca": "M14X1.5",
+        "longitud_total": "1.906\" - 48.4124mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-318",
+        "tuerca_codigo": "42-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "MERCEDES-BENZ",
+      "modelo": "C-200K",
+      "anio": "07/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-008RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4210-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "JETTA GOLF SEAT MOD. 2004",
+        "rosca": "M14X1.5",
+        "longitud_total": "1.906\" - 48.4124mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-318",
+        "tuerca_codigo": "42-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "MERCEDES-BENZ",
+      "modelo": "C-280",
+      "anio": "08/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-008RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4210-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "JETTA GOLF SEAT MOD. 2004",
+        "rosca": "M14X1.5",
+        "longitud_total": "1.906\" - 48.4124mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-318",
+        "tuerca_codigo": "42-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "MERCEDES-BENZ",
+      "modelo": "CLASS M",
+      "anio": "99/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-008RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4210-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "JETTA GOLF SEAT MOD. 2004",
+        "rosca": "M14X1.5",
+        "longitud_total": "1.906\" - 48.4124mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-318",
+        "tuerca_codigo": "42-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "MERCEDES-BENZ",
+      "modelo": "VITO CARGO VAN",
+      "anio": "07/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-008RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4210-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "JETTA GOLF SEAT MOD. 2004",
+        "rosca": "M14X1.5",
+        "longitud_total": "1.906\" - 48.4124mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-318",
+        "tuerca_codigo": "42-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "AUDI",
+      "modelo": "AUDI (TODOS)",
+      "anio": "99/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-008RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4210-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "JETTA GOLF SEAT MOD. 2004",
+        "rosca": "M14X1.5",
+        "longitud_total": "1.906\" - 48.4124mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-318",
+        "tuerca_codigo": "42-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "SEAT",
+      "modelo": "CORDOBA",
+      "anio": "07/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-008RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4210-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "JETTA GOLF SEAT MOD. 2004",
+        "rosca": "M14X1.5",
+        "longitud_total": "1.906\" - 48.4124mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-318",
+        "tuerca_codigo": "42-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "SEAT",
+      "modelo": "IBIZA",
+      "anio": "99/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-008RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4210-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "JETTA GOLF SEAT MOD. 2004",
+        "rosca": "M14X1.5",
+        "longitud_total": "1.906\" - 48.4124mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-318",
+        "tuerca_codigo": "42-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "SEAT",
+      "modelo": "LEON",
+      "anio": "07/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-008RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4210-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "JETTA GOLF SEAT MOD. 2004",
+        "rosca": "M14X1.5",
+        "longitud_total": "1.906\" - 48.4124mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-318",
+        "tuerca_codigo": "42-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "COMBI",
+      "anio": "64/99",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-004RP",
+    "tuerca_recomendada": "TA60-404RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4200-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "VOLKSWAGEN AÑO 64/99 MODELO CAMIONETA COMBI TRASERO",
+        "rosca": "M14X1.5",
+        "longitud_total": "1.38\" - 35.052mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "211501627A",
+        "equiv_hercules": "44-200",
+        "tuerca_codigo": "42-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "COMBI",
+      "anio": "64/99",
+      "posicion": "Delantero"
+    },
+    "birlo_bi": "BR60-005RP",
+    "tuerca_recomendada": "TA60-404RT",
+    "atsa": [
+      {
+        "codigo_atsa": "4201-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "VOLKSWAGEN AÑO 64/92 MODELO CAMIONETA COMBI DELANTERO/TRASERO",
+        "rosca": "M14X1.5",
+        "longitud_total": "1.81\" - 45.974mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "211405591",
+        "equiv_hercules": "44-201",
+        "tuerca_codigo": "42-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "COMBI",
+      "anio": "64/99",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR60-027RP",
+    "tuerca_recomendada": "TA60-404RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "CORSAR",
+      "anio": "82/88",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-006RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4209-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "VOLKSWAGEN AÑO 82/88 MODELO CORSA DELANTERO/TRASERO",
+        "rosca": "M12X1.5",
+        "longitud_total": "2.3\" - 58.42mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "44-209 44-409",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "CRAFTER",
+      "anio": "10/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-010RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "MERCEDES-BENZ",
+      "modelo": "SPRINTER (EJE TRASERO DE UNA RUEDA)",
+      "anio": "06/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-010RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "DERBY",
+      "anio": "95/08",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-007RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL",
+      "anio": "08/13",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-007RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOL SEDAN",
+      "anio": "08/13",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-007RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "anio": "91/98",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-007RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "JETTA",
+      "anio": "91/98",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-007RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "LUPO",
+      "anio": "07/09",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-007RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "POINTER",
+      "anio": "97/09",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-007RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "POINTER PICK UP",
+      "anio": "07/10",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-007RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "anio": "97/09",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-007RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "SAVEIRO",
+      "anio": "10/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-007RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "DERBY RIN DEPORTIVO",
+      "anio": "95/08",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-012RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF RIN DEPORTIVO",
+      "anio": "82/98",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-012RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "JETTA RIN DEPORTIVO",
+      "anio": "82/98",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-012RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "POINTER RIN DEPORTIVO",
+      "anio": "97/09",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-012RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "EUROVAN",
+      "anio": "93/09",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-013RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF",
+      "anio": "99/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-028RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "JETTA",
+      "anio": "99/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-028RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT RIN MODIFICADO",
+      "anio": "99/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-028RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "POLO",
+      "anio": "10/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-028RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "VENTO",
+      "anio": "14/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-028RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF RIN DE MAGNESIO",
+      "anio": "74/04",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-009RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4169-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "PLATINA LARGO CHEVY CORSA ASTRA",
+        "rosca": "M12X1.5",
+        "longitud_total": "2.205\" - 56.007mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "44-211 44-311",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      },
+      {
+        "codigo_atsa": "4211-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "SEDAN GOLF JETTA 74-04 RIN MAGNESIO",
+        "rosca": "M14X1.5",
+        "longitud_total": "2.2\" - 55.88mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "44-210 44-410 44-310",
+        "tuerca_codigo": "42-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "JETTA RIN DE MAGNESIO",
+      "anio": "74/04",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-009RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4169-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "PLATINA LARGO CHEVY CORSA ASTRA",
+        "rosca": "M12X1.5",
+        "longitud_total": "2.205\" - 56.007mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "44-211 44-311",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      },
+      {
+        "codigo_atsa": "4211-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "SEDAN GOLF JETTA 74-04 RIN MAGNESIO",
+        "rosca": "M14X1.5",
+        "longitud_total": "2.2\" - 55.88mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "44-210 44-410 44-310",
+        "tuerca_codigo": "42-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "SEDAN RIN MAGNESIO",
+      "anio": "74/04",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-009RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4169-R",
+        "categoria": "NISSAN GRADO 8",
+        "aplicacion": "PLATINA LARGO CHEVY CORSA ASTRA",
+        "rosca": "M12X1.5",
+        "longitud_total": "2.205\" - 56.007mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "44-211 44-311",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      },
+      {
+        "codigo_atsa": "4211-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "SEDAN GOLF JETTA 74-04 RIN MAGNESIO",
+        "rosca": "M14X1.5",
+        "longitud_total": "2.2\" - 55.88mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "44-210 44-410 44-310",
+        "tuerca_codigo": "42-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "GOLF RIN ESPECIAL",
+      "anio": "74/98",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-031RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "JETTA RIN ESPECIAL",
+      "anio": "74/98",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-031RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "SEDAN RIN ESPECIAL",
+      "anio": "74/98",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-031RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "JETTA G4 RIN ACERO",
+      "anio": "98/05",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-026RC",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4213-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "VW BEETLE AUDI",
+        "rosca": "M14X1.5",
+        "longitud_total": "2\" - 50.8mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "",
+        "tuerca_codigo": "42-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "NEW BEETLE",
+      "anio": "98/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-026RC",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4213-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "VW BEETLE AUDI",
+        "rosca": "M14X1.5",
+        "longitud_total": "2\" - 50.8mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "",
+        "tuerca_codigo": "42-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "SEDAN",
+      "anio": "74/04",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-003RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4204-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "VOLKSWAGEN AÑO 74/98 MODELO SEDAN DELANTERO/TRASERO",
+        "rosca": "M14X1.5",
+        "longitud_total": "1.625\" - 41.275mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "251601139",
+        "equiv_hercules": "44-204",
+        "tuerca_codigo": "42-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "SEDAN",
+      "anio": "74/88",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-016RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "UP",
+      "anio": "16/18",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-016RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "SEDAN RIN MAGNESIO",
+      "anio": "74/88",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-021RC",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4207-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "VOLKSWAGEN AÑO 79/84 MODELO CARIBE ATLANTIC GOLF JETTA CORSA DELANTERO/TRASERO",
+        "rosca": "M12X1.5",
+        "longitud_total": "2.548\" - 64.7192mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "44-207 44-212 44-219",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "SEDAN RIN MAGNESIO",
+      "anio": "74/04",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-022RC",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4208-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "VOLKSWAGEN AÑO 74/98 MODELO SEDAN ATLANTIC GOLF JETTA(RIN ALUMINIO)DEL/TRASERO",
+        "rosca": "M14X1.5",
+        "longitud_total": "2.3\" - 58.42mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "44-208",
+        "tuerca_codigo": "42-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "VOLKSWAGEN",
+      "modelo": "SEDAN",
+      "anio": "68/73",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-001RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": [
+      {
+        "codigo_atsa": "4203-R",
+        "categoria": "VOLKSWAGEN GRADO 8",
+        "aplicacion": "VOLKSWAGEN AÑO 68/73 MODELO SEDAN DELANTERO/TRASERO",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.5\" - 38.1mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "111601139",
+        "equiv_hercules": "44-203",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "RENAULT",
+      "modelo": "ALLIANCE",
+      "anio": "84/87",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR61-006RP",
+    "tuerca_recomendada": "TA10-115RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "RENAULT",
+      "modelo": "ENCORE",
+      "anio": "84/87",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR61-006RP",
+    "tuerca_recomendada": "TA10-115RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "RENAULT",
+      "modelo": "R5",
+      "anio": "75/84",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR61-002RP",
+    "tuerca_recomendada": "TA60-419RG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "RENAULT",
+      "modelo": "TRAFIC",
+      "anio": "09/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR61-007RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "FIAT",
+      "modelo": "DUCATO",
+      "anio": "07/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR63-003RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "FIAT",
+      "modelo": "PALIO",
+      "anio": "04/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR63-001RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "FIAT",
+      "modelo": "PALIO",
+      "anio": "04/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR63-002RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "PEUGEOT",
+      "modelo": "PARTNER",
+      "anio": "03/17",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR10-071RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "PEUGEOT",
+      "modelo": "PARTNER",
+      "anio": "03/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR62-001RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "PEUGEOT",
+      "modelo": "207 COMPACT 5 PTAS",
+      "anio": "07/13",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR62-001RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "PEUGEOT",
+      "modelo": "207 SEDAN",
+      "anio": "07/13",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR62-001RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "PEUGEOT",
+      "modelo": "PEUGEOT 308",
+      "anio": "04/15",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR62-002RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "MERCEDES-BENZ",
+      "modelo": "SPRINTER (EJE TRASERO DE DOS RUEDAS)",
+      "anio": "06/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-011RP",
+    "tuerca_recomendada": "TA60-421RG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "MERCEDES-BENZ",
+      "modelo": "SPRINTER (EJE TRASERO DE DOS RUEDAS)",
+      "anio": "06/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-034RP",
+    "tuerca_recomendada": "TA60-421RG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "BMW",
+      "modelo": "BMW (TODOS)",
+      "anio": "08/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-029RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "MINI COOPER",
+      "modelo": "MINI COOPER",
+      "anio": "08/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR60-029RP",
+    "tuerca_recomendada": "NO USA",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "TOYOTA",
+      "modelo": "AVANZA",
+      "anio": "08/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR70-209RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "TOYOTA",
+      "modelo": "4RUNNER",
+      "anio": "06/13",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR70-201RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": [
+      {
+        "codigo_atsa": "4608-R",
+        "categoria": "TOYOTA GRADO 8",
+        "aplicacion": "AÑO 73/97 TOYOTA CHEVROLET GEO LEXUS DELANTERO/TRASERO",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.54\" - 39.116mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "TC266-R",
+        "equiv_hercules": "44-502",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "TOYOTA",
+      "modelo": "CAMRY",
+      "anio": "97/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR70-201RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": [
+      {
+        "codigo_atsa": "4608-R",
+        "categoria": "TOYOTA GRADO 8",
+        "aplicacion": "AÑO 73/97 TOYOTA CHEVROLET GEO LEXUS DELANTERO/TRASERO",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.54\" - 39.116mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "TC266-R",
+        "equiv_hercules": "44-502",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "anio": "97/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR70-201RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": [
+      {
+        "codigo_atsa": "4608-R",
+        "categoria": "TOYOTA GRADO 8",
+        "aplicacion": "AÑO 73/97 TOYOTA CHEVROLET GEO LEXUS DELANTERO/TRASERO",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.54\" - 39.116mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "TC266-R",
+        "equiv_hercules": "44-502",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "TOYOTA",
+      "modelo": "FJ CRUISER",
+      "anio": "06/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR70-201RP",
+    "tuerca_recomendada": "TA30-310RC",
+    "atsa": [
+      {
+        "codigo_atsa": "4608-R",
+        "categoria": "TOYOTA GRADO 8",
+        "aplicacion": "AÑO 73/97 TOYOTA CHEVROLET GEO LEXUS DELANTERO/TRASERO",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.54\" - 39.116mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "TC266-R",
+        "equiv_hercules": "44-502",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "TOYOTA",
+      "modelo": "HIACE",
+      "anio": "05/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR70-201RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": [
+      {
+        "codigo_atsa": "4608-R",
+        "categoria": "TOYOTA GRADO 8",
+        "aplicacion": "AÑO 73/97 TOYOTA CHEVROLET GEO LEXUS DELANTERO/TRASERO",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.54\" - 39.116mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "TC266-R",
+        "equiv_hercules": "44-502",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "TOYOTA",
+      "modelo": "HIGHLANDER",
+      "anio": "07/13",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR70-201RP",
+    "tuerca_recomendada": "TA10-143RG / TA30-289RC",
+    "atsa": [
+      {
+        "codigo_atsa": "4608-R",
+        "categoria": "TOYOTA GRADO 8",
+        "aplicacion": "AÑO 73/97 TOYOTA CHEVROLET GEO LEXUS DELANTERO/TRASERO",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.54\" - 39.116mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "TC266-R",
+        "equiv_hercules": "44-502",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "TOYOTA",
+      "modelo": "HILUX",
+      "anio": "07/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR70-201RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": [
+      {
+        "codigo_atsa": "4608-R",
+        "categoria": "TOYOTA GRADO 8",
+        "aplicacion": "AÑO 73/97 TOYOTA CHEVROLET GEO LEXUS DELANTERO/TRASERO",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.54\" - 39.116mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "TC266-R",
+        "equiv_hercules": "44-502",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "TOYOTA",
+      "modelo": "LEXUS",
+      "anio": "91/00",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR70-201RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": [
+      {
+        "codigo_atsa": "4608-R",
+        "categoria": "TOYOTA GRADO 8",
+        "aplicacion": "AÑO 73/97 TOYOTA CHEVROLET GEO LEXUS DELANTERO/TRASERO",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.54\" - 39.116mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "TC266-R",
+        "equiv_hercules": "44-502",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "TOYOTA",
+      "modelo": "MATRIX",
+      "anio": "07/12",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR70-201RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": [
+      {
+        "codigo_atsa": "4608-R",
+        "categoria": "TOYOTA GRADO 8",
+        "aplicacion": "AÑO 73/97 TOYOTA CHEVROLET GEO LEXUS DELANTERO/TRASERO",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.54\" - 39.116mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "TC266-R",
+        "equiv_hercules": "44-502",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "TOYOTA",
+      "modelo": "PICK UP AMERICANA",
+      "anio": "73/97",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR70-201RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": [
+      {
+        "codigo_atsa": "4608-R",
+        "categoria": "TOYOTA GRADO 8",
+        "aplicacion": "AÑO 73/97 TOYOTA CHEVROLET GEO LEXUS DELANTERO/TRASERO",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.54\" - 39.116mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "TC266-R",
+        "equiv_hercules": "44-502",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "TOYOTA",
+      "modelo": "PRIUS",
+      "anio": "09/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR70-201RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": [
+      {
+        "codigo_atsa": "4608-R",
+        "categoria": "TOYOTA GRADO 8",
+        "aplicacion": "AÑO 73/97 TOYOTA CHEVROLET GEO LEXUS DELANTERO/TRASERO",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.54\" - 39.116mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "TC266-R",
+        "equiv_hercules": "44-502",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "TOYOTA",
+      "modelo": "RAV-4",
+      "anio": "04/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR70-201RP",
+    "tuerca_recomendada": "TA30-294RC",
+    "atsa": [
+      {
+        "codigo_atsa": "4608-R",
+        "categoria": "TOYOTA GRADO 8",
+        "aplicacion": "AÑO 73/97 TOYOTA CHEVROLET GEO LEXUS DELANTERO/TRASERO",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.54\" - 39.116mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "TC266-R",
+        "equiv_hercules": "44-502",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "TOYOTA",
+      "modelo": "SIENNA",
+      "anio": "07/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR70-201RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": [
+      {
+        "codigo_atsa": "4608-R",
+        "categoria": "TOYOTA GRADO 8",
+        "aplicacion": "AÑO 73/97 TOYOTA CHEVROLET GEO LEXUS DELANTERO/TRASERO",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.54\" - 39.116mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "TC266-R",
+        "equiv_hercules": "44-502",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "TOYOTA",
+      "modelo": "YARIS",
+      "anio": "07/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR70-201RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": [
+      {
+        "codigo_atsa": "4608-R",
+        "categoria": "TOYOTA GRADO 8",
+        "aplicacion": "AÑO 73/97 TOYOTA CHEVROLET GEO LEXUS DELANTERO/TRASERO",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.54\" - 39.116mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "TC266-R",
+        "equiv_hercules": "44-502",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "TOYOTA",
+      "modelo": "4RUNNER",
+      "anio": "06/13",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR70-208RP",
+    "tuerca_recomendada": "TA30-294RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "anio": "97/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR70-208RP",
+    "tuerca_recomendada": "TA30-294RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "TOYOTA",
+      "modelo": "HIACE",
+      "anio": "05/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR70-208RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "TOYOTA",
+      "modelo": "RAV-4",
+      "anio": "04/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR70-208RP",
+    "tuerca_recomendada": "TA30-294RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "TOYOTA",
+      "modelo": "SIENNA",
+      "anio": "07/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR70-208RP",
+    "tuerca_recomendada": "TA30-294RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "TOYOTA",
+      "modelo": "YARIS",
+      "anio": "07/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR70-208RP",
+    "tuerca_recomendada": "TA30-294RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "TOYOTA",
+      "modelo": "CAMRY",
+      "anio": "97/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR70-205RP",
+    "tuerca_recomendada": "TA30-261RC",
+    "atsa": [
+      {
+        "codigo_atsa": "4902-R",
+        "categoria": "REMOLQUE GRADO 8",
+        "aplicacion": "PICK UP TOYOTA PRODUCCION ESPECIAL",
+        "rosca": "M12X1.5",
+        "longitud_total": "2.191\" - 55.6514mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "P020R",
+        "equiv_hercules": "29-594",
+        "tuerca_codigo": "41E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "anio": "97/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR70-205RP",
+    "tuerca_recomendada": "TA30-261RC",
+    "atsa": [
+      {
+        "codigo_atsa": "4902-R",
+        "categoria": "REMOLQUE GRADO 8",
+        "aplicacion": "PICK UP TOYOTA PRODUCCION ESPECIAL",
+        "rosca": "M12X1.5",
+        "longitud_total": "2.191\" - 55.6514mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "P020R",
+        "equiv_hercules": "29-594",
+        "tuerca_codigo": "41E-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "TOYOTA",
+      "modelo": "CAMRY",
+      "anio": "97/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR70-210RP",
+    "tuerca_recomendada": "TA30-261RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "TOYOTA",
+      "modelo": "COROLLA",
+      "anio": "97/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR70-210RP",
+    "tuerca_recomendada": "TA30-294RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "TOYOTA",
+      "modelo": "LAND CRUISER",
+      "anio": "04/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR70-207RP",
+    "tuerca_recomendada": "TA30-245RC",
+    "atsa": [
+      {
+        "codigo_atsa": "4612-R",
+        "categoria": "TOYOTA GRADO 8",
+        "aplicacion": "PICK UP TOYOTA",
+        "rosca": "M14X1.5",
+        "longitud_total": "1.78\" - 45.212mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "TC-016",
+        "equiv_hercules": "29-663",
+        "tuerca_codigo": "42-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "TOYOTA",
+      "modelo": "TUNDRA",
+      "anio": "07/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR70-207RP",
+    "tuerca_recomendada": "TA30-311RC",
+    "atsa": [
+      {
+        "codigo_atsa": "4612-R",
+        "categoria": "TOYOTA GRADO 8",
+        "aplicacion": "PICK UP TOYOTA",
+        "rosca": "M14X1.5",
+        "longitud_total": "1.78\" - 45.212mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "TC-016",
+        "equiv_hercules": "29-663",
+        "tuerca_codigo": "42-R",
+        "tuerca_tipo": "CAMPANA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "TOYOTA",
+      "modelo": "LEXUS",
+      "anio": "90/91",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR70-200RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": [
+      {
+        "codigo_atsa": "4600-R",
+        "categoria": "TOYOTA GRADO 8",
+        "aplicacion": "AÑO 90/91 MOD TOYOTA LEXUS PICK UP AMERICANO 65-97 DELANTERO/TRASERO",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.456\" - 36.9824mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "TC-244",
+        "equiv_hercules": "44-501",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "TOYOTA",
+      "modelo": "PICK UP AMERICANA",
+      "anio": "65/97",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR70-200RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": [
+      {
+        "codigo_atsa": "4600-R",
+        "categoria": "TOYOTA GRADO 8",
+        "aplicacion": "AÑO 90/91 MOD TOYOTA LEXUS PICK UP AMERICANO 65-97 DELANTERO/TRASERO",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.456\" - 36.9824mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "TC-244",
+        "equiv_hercules": "44-501",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "TOYOTA",
+      "modelo": "PICK UP T-100",
+      "anio": "86/94",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR70-202RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": [
+      {
+        "codigo_atsa": "4607-R",
+        "categoria": "TOYOTA GRADO 8",
+        "aplicacion": "AÑO 89/97 DODGE PICK UP LEXUS MITSUBISHI DELANTERO/TRASERO",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.74\" - 44.196mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "TC312-R",
+        "equiv_hercules": "29-312",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "TOYOTA",
+      "modelo": "PICK UP 4WD",
+      "anio": "86/94",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR70-202RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": [
+      {
+        "codigo_atsa": "4607-R",
+        "categoria": "TOYOTA GRADO 8",
+        "aplicacion": "AÑO 89/97 DODGE PICK UP LEXUS MITSUBISHI DELANTERO/TRASERO",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.74\" - 44.196mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "TC312-R",
+        "equiv_hercules": "29-312",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "TOYOTA",
+      "modelo": "TACOMA",
+      "anio": "93/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR70-202RP",
+    "tuerca_recomendada": "TA30-310RC",
+    "atsa": [
+      {
+        "codigo_atsa": "4607-R",
+        "categoria": "TOYOTA GRADO 8",
+        "aplicacion": "AÑO 89/97 DODGE PICK UP LEXUS MITSUBISHI DELANTERO/TRASERO",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.74\" - 44.196mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "TC312-R",
+        "equiv_hercules": "29-312",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "TOYOTA",
+      "modelo": "TUNDRA SRS",
+      "anio": "97/06",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR70-202RP",
+    "tuerca_recomendada": "TA30-310RC",
+    "atsa": [
+      {
+        "codigo_atsa": "4607-R",
+        "categoria": "TOYOTA GRADO 8",
+        "aplicacion": "AÑO 89/97 DODGE PICK UP LEXUS MITSUBISHI DELANTERO/TRASERO",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.74\" - 44.196mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "TC312-R",
+        "equiv_hercules": "29-312",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "ISUZU",
+      "modelo": "ISUZU TRUCK",
+      "anio": "97/06",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR70-202RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": [
+      {
+        "codigo_atsa": "4607-R",
+        "categoria": "TOYOTA GRADO 8",
+        "aplicacion": "AÑO 89/97 DODGE PICK UP LEXUS MITSUBISHI DELANTERO/TRASERO",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.74\" - 44.196mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "TC312-R",
+        "equiv_hercules": "29-312",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "TOYOTA",
+      "modelo": "PICK UP 4WD",
+      "anio": "81/86",
+      "posicion": "Delantero"
+    },
+    "birlo_bi": "BR70-204RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": [
+      {
+        "codigo_atsa": "4602-R",
+        "categoria": "TOYOTA GRADO 8",
+        "aplicacion": "AÑO 84/85 MODELO TOYOTA PICK UP 4WD DELANTERO",
+        "rosca": "M12X1.5",
+        "longitud_total": "2.06\" - 52.324mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "TC-264",
+        "equiv_hercules": "29-595",
+        "tuerca_codigo": "119A-R",
+        "tuerca_tipo": "CROMADA DE LUJO"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "TOYOTA",
+      "modelo": "PICK UP AMERICANA",
+      "anio": "79/83",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR70-203RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": [
+      {
+        "codigo_atsa": "4601-R",
+        "categoria": "TOYOTA GRADO 8",
+        "aplicacion": "AÑO 79/83 MODELO TOYOTA PICK UP DELANTERO/TRASERO",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.771\" - 44.9834mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "44-510 22-143",
+        "tuerca_codigo": "119A-R",
+        "tuerca_tipo": "CROMADA DE LUJO"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "TOYOTA",
+      "modelo": "STOUT",
+      "anio": "79/89",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR10-084RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "HONDA",
+      "modelo": "ACCORD",
+      "anio": "98/10",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR71-001RP",
+    "tuerca_recomendada": "TA30-259RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "HONDA",
+      "modelo": "CIVIC",
+      "anio": "09/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR71-001RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "HONDA",
+      "modelo": "CIVIC HIBRIDO",
+      "anio": "09/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR71-001RP",
+    "tuerca_recomendada": "TA30-259RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "HONDA",
+      "modelo": "CRV",
+      "anio": "02/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR71-001RP",
+    "tuerca_recomendada": "TA30-259RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "HONDA",
+      "modelo": "FIT",
+      "anio": "06/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR71-001RP",
+    "tuerca_recomendada": "TA30-259RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "HONDA",
+      "modelo": "HRV",
+      "anio": "15/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR71-001RP",
+    "tuerca_recomendada": "TA30-259RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "HONDA",
+      "modelo": "ACCORD",
+      "anio": "98/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR71-003RP",
+    "tuerca_recomendada": "TA30-259RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "HONDA",
+      "modelo": "CRV",
+      "anio": "02/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR71-003RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "HONDA",
+      "modelo": "ODYSSEY",
+      "anio": "98/04",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR71-003RP",
+    "tuerca_recomendada": "TA10-143RG / TA30-259RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "HONDA",
+      "modelo": "PILOT",
+      "anio": "98/08",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR71-003RP",
+    "tuerca_recomendada": "TA10-143RG / TA30-259RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "HONDA",
+      "modelo": "ACCORD",
+      "anio": "98/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR71-002RP",
+    "tuerca_recomendada": "TA30-259RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "HONDA",
+      "modelo": "CITY",
+      "anio": "09/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR71-002RP",
+    "tuerca_recomendada": "TA10-143RG / TA30-259RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "HONDA",
+      "modelo": "CIVIC",
+      "anio": "09/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR71-002RP",
+    "tuerca_recomendada": "TA10-143RG / TA30-259RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "HONDA",
+      "modelo": "CIVIC 2 PTAS",
+      "anio": "09/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR71-002RP",
+    "tuerca_recomendada": "TA10-143RG / TA30-259RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "HONDA",
+      "modelo": "CIVIC HIBRIDO",
+      "anio": "09/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR71-002RP",
+    "tuerca_recomendada": "TA30-259RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "HONDA",
+      "modelo": "CRV",
+      "anio": "02/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR71-002RP",
+    "tuerca_recomendada": "TA30-259RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "HONDA",
+      "modelo": "FIT",
+      "anio": "06/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR71-002RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "HONDA",
+      "modelo": "ACURA MDX",
+      "anio": "07/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR71-005RP",
+    "tuerca_recomendada": "TA30-292RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "HONDA",
+      "modelo": "ODYSSEY",
+      "anio": "07/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR71-005RP",
+    "tuerca_recomendada": "TA30-292RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "HONDA",
+      "modelo": "PILOT",
+      "anio": "09/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR71-005RP",
+    "tuerca_recomendada": "TA30-292RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "HONDA",
+      "modelo": "RIDGELINE",
+      "anio": "07/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR71-005RP",
+    "tuerca_recomendada": "TA30-292RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "HONDA",
+      "modelo": "CUATRIMOTO",
+      "anio": "90/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR71-004RP",
+    "tuerca_recomendada": "TA60-419RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "HYUNDAI",
+      "modelo": "ACCENT",
+      "anio": "00/05",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR72-004RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "HYUNDAI",
+      "modelo": "AVANTE",
+      "anio": "98/03",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR72-004RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "HYUNDAI",
+      "modelo": "CAMIONETA H1",
+      "anio": "00/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR72-004RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "HYUNDAI",
+      "modelo": "ACCENT",
+      "anio": "14/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR72-005RP",
+    "tuerca_recomendada": "TA30-321RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "HYUNDAI",
+      "modelo": "AZERA",
+      "anio": "14/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR72-005RP",
+    "tuerca_recomendada": "TA30-321RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "HYUNDAI",
+      "modelo": "CRETA",
+      "anio": "14/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR72-005RP",
+    "tuerca_recomendada": "TA30-321RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "HYUNDAI",
+      "modelo": "ELANTRA",
+      "anio": "14/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR72-005RP",
+    "tuerca_recomendada": "TA30-321RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "HYUNDAI",
+      "modelo": "GRAND i10",
+      "anio": "14/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR72-005RP",
+    "tuerca_recomendada": "TA30-321RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "HYUNDAI",
+      "modelo": "i10",
+      "anio": "14/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR72-005RP",
+    "tuerca_recomendada": "TA30-321RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "HYUNDAI",
+      "modelo": "SANTA FE",
+      "anio": "14/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR72-005RP",
+    "tuerca_recomendada": "TA30-321RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "HYUNDAI",
+      "modelo": "SONATA",
+      "anio": "14/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR72-005RP",
+    "tuerca_recomendada": "TA30-321RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "HYUNDAI",
+      "modelo": "TUCSON",
+      "anio": "14/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR72-005RP",
+    "tuerca_recomendada": "TA30-321RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "HYUNDAI",
+      "modelo": "ATOS",
+      "anio": "98/04",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR73-005RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "HYUNDAI",
+      "modelo": "CAMIONETA H-100",
+      "anio": "02/10",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR72-001RP",
+    "tuerca_recomendada": "TA30-245RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "HYUNDAI",
+      "modelo": "CAMIONETA H-100",
+      "anio": "02/10",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR72-003RP",
+    "tuerca_recomendada": "TA30-245RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "HYUNDAI",
+      "modelo": "i10",
+      "anio": "07/13",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR20-069RP",
+    "tuerca_recomendada": "TA30-303RC",
+    "atsa": [
+      {
+        "codigo_atsa": "2185-R",
+        "categoria": "CHRYSLER GRADO 8",
+        "aplicacion": "ATTITUDE TODOS MODELOS DEL/TRAS.",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.791\" - 45.4914mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-033",
+        "tuerca_codigo": "121T-R",
+        "tuerca_tipo": "CROMADA DE LUJO"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "MAZDA",
+      "modelo": "MAZDA 3",
+      "anio": "05/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR20-069RP",
+    "tuerca_recomendada": "TA30-303RC",
+    "atsa": [
+      {
+        "codigo_atsa": "2185-R",
+        "categoria": "CHRYSLER GRADO 8",
+        "aplicacion": "ATTITUDE TODOS MODELOS DEL/TRAS.",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.791\" - 45.4914mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-033",
+        "tuerca_codigo": "121T-R",
+        "tuerca_tipo": "CROMADA DE LUJO"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "MAZDA",
+      "modelo": "MAZDA 5 (GRAND TOURING)",
+      "anio": "05/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR20-069RP",
+    "tuerca_recomendada": "TA30-303RC",
+    "atsa": [
+      {
+        "codigo_atsa": "2185-R",
+        "categoria": "CHRYSLER GRADO 8",
+        "aplicacion": "ATTITUDE TODOS MODELOS DEL/TRAS.",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.791\" - 45.4914mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-033",
+        "tuerca_codigo": "121T-R",
+        "tuerca_tipo": "CROMADA DE LUJO"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "MAZDA",
+      "modelo": "B2200",
+      "anio": "86/93",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR73-008RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "MAZDA",
+      "modelo": "B2600",
+      "anio": "86/93",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR73-008RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "MAZDA",
+      "modelo": "PICK UP",
+      "anio": "86/93",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR73-008RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "MAZDA",
+      "modelo": "BT50",
+      "anio": "06/10",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR77-001RP",
+    "tuerca_recomendada": "TA30-303RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "KIA",
+      "modelo": "SPORTAGE",
+      "anio": "16/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR77-001RP",
+    "tuerca_recomendada": "TA30-321RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "MAZDA",
+      "modelo": "CX-7 (GRAND TOURING, SPORT)",
+      "anio": "07/12",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR30-084RP",
+    "tuerca_recomendada": "TA30-303RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "MAZDA",
+      "modelo": "CX-9 (GRAND TOURING, SPORT)",
+      "anio": "07/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR30-084RP",
+    "tuerca_recomendada": "TA30-303RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "MAZDA",
+      "modelo": "MAZDA 6",
+      "anio": "03/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR30-084RP",
+    "tuerca_recomendada": "TA30-303RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "MAZDA",
+      "modelo": "MAZDA PICK UP FRENO TAMBOR",
+      "anio": "76/93",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR73-007RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "MAZDA",
+      "modelo": "PICK UP MAZDA",
+      "anio": "00/05",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR73-001RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "MAZDA",
+      "modelo": "PICK UP MAZDA",
+      "anio": "80/85",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR73-003RP",
+    "tuerca_recomendada": "TA30-244RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "MAZDA",
+      "modelo": "PICK UP MAZDA",
+      "anio": "00/05",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR73-002RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "MITSUBISHI",
+      "modelo": "ECLIPSE",
+      "anio": "08/18",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR20-067RP",
+    "tuerca_recomendada": "TA30-303RC",
+    "atsa": [
+      {
+        "codigo_atsa": "2186-R",
+        "categoria": "CHRYSLER GRADO 8",
+        "aplicacion": "CALIBER Y PATRIOT DEL/TRAS.",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.712\" - 43.4848mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-029",
+        "tuerca_codigo": "189-M",
+        "tuerca_tipo": ""
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "MITSUBISHI",
+      "modelo": "ENDEAVOR",
+      "anio": "08/17",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR20-067RP",
+    "tuerca_recomendada": "TA30-303RC",
+    "atsa": [
+      {
+        "codigo_atsa": "2186-R",
+        "categoria": "CHRYSLER GRADO 8",
+        "aplicacion": "CALIBER Y PATRIOT DEL/TRAS.",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.712\" - 43.4848mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-029",
+        "tuerca_codigo": "189-M",
+        "tuerca_tipo": ""
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "MITSUBISHI",
+      "modelo": "LANCER",
+      "anio": "08/17",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR20-067RP",
+    "tuerca_recomendada": "TA30-303RC",
+    "atsa": [
+      {
+        "codigo_atsa": "2186-R",
+        "categoria": "CHRYSLER GRADO 8",
+        "aplicacion": "CALIBER Y PATRIOT DEL/TRAS.",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.712\" - 43.4848mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-029",
+        "tuerca_codigo": "189-M",
+        "tuerca_tipo": ""
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "MITSUBISHI",
+      "modelo": "MONTERO",
+      "anio": "08/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR20-067RP",
+    "tuerca_recomendada": "TA30-303RC",
+    "atsa": [
+      {
+        "codigo_atsa": "2186-R",
+        "categoria": "CHRYSLER GRADO 8",
+        "aplicacion": "CALIBER Y PATRIOT DEL/TRAS.",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.712\" - 43.4848mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-029",
+        "tuerca_codigo": "189-M",
+        "tuerca_tipo": ""
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "MITSUBISHI",
+      "modelo": "OUTLANDER",
+      "anio": "08/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR20-067RP",
+    "tuerca_recomendada": "TA30-303RC",
+    "atsa": [
+      {
+        "codigo_atsa": "2186-R",
+        "categoria": "CHRYSLER GRADO 8",
+        "aplicacion": "CALIBER Y PATRIOT DEL/TRAS.",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.712\" - 43.4848mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "",
+        "equiv_hercules": "29-029",
+        "tuerca_codigo": "189-M",
+        "tuerca_tipo": ""
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "MITSUBISHI",
+      "modelo": "GALANT",
+      "anio": "83/99",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR74-001RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "MITSUBISHI",
+      "modelo": "MONTERO",
+      "anio": "83/99",
+      "posicion": "Delantero"
+    },
+    "birlo_bi": "BR74-001RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "MITSUBISHI",
+      "modelo": "PICK UP",
+      "anio": "83/99",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR74-001RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "MITSUBISHI",
+      "modelo": "GALANT",
+      "anio": "05/10",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR74-003RP",
+    "tuerca_recomendada": "TA30-303RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "MITSUBISHI",
+      "modelo": "WAGON 4WD",
+      "anio": "92/95",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR74-003RP",
+    "tuerca_recomendada": "TA10-143RG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "MITSUBISHI",
+      "modelo": "L-200",
+      "anio": "07/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR74-005RP",
+    "tuerca_recomendada": "TA30-303RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "MITSUBISHI",
+      "modelo": "MONTERO USA",
+      "anio": "82/86",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR20-057RP",
+    "tuerca_recomendada": "TA10-115RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "ISUZU",
+      "modelo": "ELF 200",
+      "anio": "09/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR75-001RP",
+    "tuerca_recomendada": "TA10-123RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "ISUZU",
+      "modelo": "ELF 200",
+      "anio": "09/19",
+      "posicion": "Delantero"
+    },
+    "birlo_bi": "BR75-002LP",
+    "tuerca_recomendada": "TA10-139LG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "ISUZU",
+      "modelo": "ELF 200",
+      "anio": "09/19",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR75-003RP",
+    "tuerca_recomendada": "TA10-123RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "ISUZU",
+      "modelo": "ELF 200",
+      "anio": "09/19",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR75-004LP",
+    "tuerca_recomendada": "TA10-139LG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "ISUZU",
+      "modelo": "ELF 300",
+      "anio": "07/19",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR50-714RP",
+    "tuerca_recomendada": "CA00-032RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "ISUZU",
+      "modelo": "ELF 300",
+      "anio": "07/19",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR50-715LP",
+    "tuerca_recomendada": "CA00-033LG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "ISUZU",
+      "modelo": "ELF 300",
+      "anio": "07/19",
+      "posicion": "Delantero"
+    },
+    "birlo_bi": "BR50-712RP",
+    "tuerca_recomendada": "TA10-196RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "ISUZU",
+      "modelo": "ELF 300",
+      "anio": "07/19",
+      "posicion": "Delantero"
+    },
+    "birlo_bi": "BR50-713LP",
+    "tuerca_recomendada": "TA10-197LG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "ISUZU",
+      "modelo": "RODEO 4 X 4",
+      "anio": "96/98",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR20-043RP",
+    "tuerca_recomendada": "TA10-115RT",
+    "atsa": [
+      {
+        "codigo_atsa": "2160-R",
+        "categoria": "CHRYSLER GRADO 8",
+        "aplicacion": "AUTOMOVIL AÑO 96/01 MODELO NEON TRASERO",
+        "rosca": "M12X1.5",
+        "longitud_total": "1.51\" - 38.354mm",
+        "dureza": "GRADO 8",
+        "equiv_birlo_original": "4746174",
+        "equiv_hercules": "22-163",
+        "tuerca_codigo": "40-R",
+        "tuerca_tipo": "CÓNICA"
+      }
+    ]
+  },
+  {
+    "vehiculo": {
+      "marca": "SUZUKI",
+      "modelo": "FORSA",
+      "anio": "89/97",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR76-001RP",
+    "tuerca_recomendada": "TA60-419RG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "SUZUKI",
+      "modelo": "GEO",
+      "anio": "89/97",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR76-001RP",
+    "tuerca_recomendada": "TA60-419RG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "SUZUKI",
+      "modelo": "SPRINT",
+      "anio": "89/97",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR76-001RP",
+    "tuerca_recomendada": "TA60-419RG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "SUZUKI",
+      "modelo": "FORSA",
+      "anio": "89/97",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR76-005RP",
+    "tuerca_recomendada": "TA60-419RG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "SUZUKI",
+      "modelo": "GEO",
+      "anio": "89/97",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR76-005RP",
+    "tuerca_recomendada": "TA60-419RG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "SUZUKI",
+      "modelo": "SPRINT",
+      "anio": "89/97",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR76-005RP",
+    "tuerca_recomendada": "TA60-419RG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "SUZUKI",
+      "modelo": "GEO",
+      "anio": "89/97",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR61-001RP",
+    "tuerca_recomendada": "TA60-419RG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "SUZUKI",
+      "modelo": "SPRINT",
+      "anio": "89/97",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR61-001RP",
+    "tuerca_recomendada": "TA60-419RG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "SUZUKI",
+      "modelo": "GRAN VITARA",
+      "anio": "07/17",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR76-002RP",
+    "tuerca_recomendada": "TA30-291RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "SUZUKI",
+      "modelo": "SWIFT",
+      "anio": "07/19",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR76-002RP",
+    "tuerca_recomendada": "TA30-291RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "SUZUKI",
+      "modelo": "JEEP VITARA",
+      "anio": "90/08",
+      "posicion": "Delantero"
+    },
+    "birlo_bi": "BR76-003RP",
+    "tuerca_recomendada": "TA10-114RT / TA30-267RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "SUZUKI",
+      "modelo": "MARUTI",
+      "anio": "83/10",
+      "posicion": "Delantero"
+    },
+    "birlo_bi": "BR76-003RP",
+    "tuerca_recomendada": "TA10-114RT / TA30-267RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "SUZUKI",
+      "modelo": "SAMURAI",
+      "anio": "85/98",
+      "posicion": "Delantero"
+    },
+    "birlo_bi": "BR76-003RP",
+    "tuerca_recomendada": "TA10-114RT / TA30-267RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "SUZUKI",
+      "modelo": "JEEP VITARA",
+      "anio": "90/08",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR76-004RP",
+    "tuerca_recomendada": "TA10-114RT / TA30-267RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "SUZUKI",
+      "modelo": "MARUTI",
+      "anio": "83/10",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR76-004RP",
+    "tuerca_recomendada": "TA10-114RT / TA30-267RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "SUZUKI",
+      "modelo": "SAMURAI",
+      "anio": "85/98",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR76-004RP",
+    "tuerca_recomendada": "TA10-114RT / TA30-267RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "SUZUKI",
+      "modelo": "STEEM",
+      "anio": "95/08",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR10-082RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "SUZUKI",
+      "modelo": "SWIFT",
+      "anio": "89/98",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR10-082RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "SUZUKI",
+      "modelo": "VITARA",
+      "anio": "89/98",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR10-082RP",
+    "tuerca_recomendada": "TA10-114RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "KIA",
+      "modelo": "FORTE",
+      "anio": "16/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR77-006RP",
+    "tuerca_recomendada": "TA30-321RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "KIA",
+      "modelo": "NIRO",
+      "anio": "16/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR77-006RP",
+    "tuerca_recomendada": "TA30-321RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "KIA",
+      "modelo": "OPTIMA",
+      "anio": "16/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR77-006RP",
+    "tuerca_recomendada": "TA30-321RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "KIA",
+      "modelo": "SOUL",
+      "anio": "16/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR77-006RP",
+    "tuerca_recomendada": "TA30-321RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "KIA",
+      "modelo": "SORENTO",
+      "anio": "16/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR77-006RP",
+    "tuerca_recomendada": "TA30-321RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "KIA",
+      "modelo": "STINGER",
+      "anio": "16/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR77-006RP",
+    "tuerca_recomendada": "TA30-321RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "KIA",
+      "modelo": "SPORTAGE",
+      "anio": "16/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR77-006RP",
+    "tuerca_recomendada": "TA30-321RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "KIA",
+      "modelo": "RIO",
+      "anio": "16/20",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR77-006RP",
+    "tuerca_recomendada": "TA30-321RC",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "KIA",
+      "modelo": "K2700",
+      "anio": "05/18",
+      "posicion": "Delantero"
+    },
+    "birlo_bi": "BR77-004RP",
+    "tuerca_recomendada": "TA10-110RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "KIA",
+      "modelo": "K2700",
+      "anio": "05/18",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR77-005LP",
+    "tuerca_recomendada": "TA10-111LG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "KIA",
+      "modelo": "K3000",
+      "anio": "05/18",
+      "posicion": "Delantero"
+    },
+    "birlo_bi": "BR77-002RP",
+    "tuerca_recomendada": "TA10-110RT",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "KIA",
+      "modelo": "K3000",
+      "anio": "05/18",
+      "posicion": "Delantero / Trasero"
+    },
+    "birlo_bi": "BR77-003LP",
+    "tuerca_recomendada": "TA10-111LG",
+    "atsa": []
+  },
+  {
+    "vehiculo": {
+      "marca": "WILLYS",
+      "modelo": "WILLYS WAGONER",
+      "anio": "84/87",
+      "posicion": "Trasero"
+    },
+    "birlo_bi": "BR61-005RP",
+    "tuerca_recomendada": "TA10-100RG",
+    "atsa": []
+  }
+]
