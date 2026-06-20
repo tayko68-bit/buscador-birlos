@@ -24,7 +24,8 @@ header h1 { font-size: 2rem; color: #1a237e; margin-bottom: 5px; }
 #count-info { margin-bottom: 15px; font-size: 0.9rem; color: #666; }
 
 .card { background: #fff; border-radius: 8px; padding: 18px; margin-bottom: 12px; box-shadow: 0 1px 4px rgba(0,0,0,0.06); border-left: 4px solid #1a237e; }
-.card-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; flex-wrap: wrap; gap: 8px; }
+.card-header { margin-bottom: 4px; }
+.atsa-sep { border: none; border-top: 1px dashed #ddd; margin: 10px 0; }
 .card-vehiculo { font-weight: 700; font-size: 1.05rem; color: #1a237e; }
 .card-posicion { font-size: 0.85rem; color: #888; }
 .codigos { display: flex; gap: 12px; flex-wrap: wrap; margin: 8px 0; }

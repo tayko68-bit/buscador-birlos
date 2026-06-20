@@ -144,11 +144,13 @@ function mostrarResultados(lista) {
 
   container.innerHTML = lista.map(r => {
     const v = r.vehiculo;
-    const atsaHTML = r.atsa.length > 0 ? r.atsa.map(a => `
-      <div class="atsa-block">
+
+    const atsaBlocks = r.atsa.length > 0 ? r.atsa.map(a => {
+      const hercCodes = a.equiv_hercules ? a.equiv_hercules.split(/\s+/).map(h => `H${h}`).join(', ') : '';
+      return `
         <div class="codigos">
           <span class="codigo-item atsa"><span class="label">ATSA:</span> ${a.codigo_atsa}</span>
-          ${a.equiv_hercules ? `<span class="codigo-item hercules"><span class="label">Hércules:</span> H${a.equiv_hercules}</span>` : ''}
+          ${hercCodes ? `<span class="codigo-item hercules"><span class="label">Hércules:</span> ${hercCodes}</span>` : ''}
           ${a.equiv_birlo_original ? `<span class="codigo-item original"><span class="label">Original:</span> ${a.equiv_birlo_original}</span>` : ''}
         </div>
         <div class="specs">
@@ -157,23 +159,20 @@ function mostrarResultados(lista) {
           ${a.dureza ? `<span class="spec-item"><span class="label">Dureza:</span> ${a.dureza}</span>` : ''}
           ${a.aplicacion ? `<span class="spec-item"><span class="label">Aplicación:</span> ${a.aplicacion}</span>` : ''}
         </div>
-        ${a.tuerca_codigo ? `<div class="tuerca-info"><strong>Tuerca:</strong> ${a.tuerca_codigo} ${a.tuerca_tipo ? '(' + a.tuerca_tipo + ')' : ''}</div>` : ''}
-      </div>
-    `).join('') : '<div class="no-match">Sin información ATSA disponible para este código</div>';
+      `;
+    }).join('<hr class="atsa-sep">') : '<div class="no-match">Sin información ATSA disponible</div>';
 
     return `
       <div class="card">
         <div class="card-header">
-          <div>
-            <div class="card-vehiculo">${v.marca} ${v.modelo}</div>
-            <div class="card-posicion">${v.anio} ${v.posicion ? '— ' + v.posicion : ''}</div>
-          </div>
-          <div class="codigos" style="margin:0">
-            <span class="codigo-item bi"><span class="label">Birlos Int.:</span> ${r.birlo_bi}</span>
-          </div>
+          <div class="card-vehiculo">${v.marca} ${v.modelo}</div>
+          <div class="card-posicion">${v.anio} ${v.posicion ? '— ' + v.posicion : ''}</div>
         </div>
-        ${atsaHTML}
-        <div class="tuerca-info" style="margin-top:6px;font-size:0.85rem">
+        <div class="codigos" style="margin-top:8px">
+          <span class="codigo-item bi"><span class="label">Birlos Internacionales:</span> ${r.birlo_bi}</span>
+        </div>
+        ${atsaBlocks}
+        <div class="tuerca-info" style="margin-top:8px;padding-top:8px;border-top:1px solid #eee">
           <strong>Tuerca recomendada:</strong> ${r.tuerca_recomendada || 'N/A'}
         </div>
       </div>
